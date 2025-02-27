@@ -1,0 +1,832 @@
+[
+    {
+        "type": "text",
+        "text": "A balancing strategy for ambidextrous learning, dynamic capabilities, and business model design, the opposite moderating effects of environmental dynamism ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chun Yuan, Doudou Xue, Xin He ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "School of Management.Lanzhou University.222 Tianshui S Rd.Lanzhou.GansuProvince.China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nBalancing strategy for ambidextrous learning   \nDynamic capabilities   \nEnvironmental dynamism   \nBusiness model design ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The present study examines whether a balancing strategy for ambidextrous learning (BSAL) can influence business model design (BMD) via dynamic capabilities. Furthermore, this study investigates whether environmental dynamism, in an opposite manner, moderates the relationships between dynamic capabilities and novelty-centered and efficiency-centered BMD. It draws on a cross-industrial sample of 493 Chinese firms. Data are analyzed using a set of OLS regression models and the bootstrap procedure. Results show that dynamic capabilities mediate the positive effects of BSAL on novelty-centered and eficiency-centered BMD; environmental dynamism positively moderates the dynamic capabilities - novelty-centered BMD relationship, while negatively moderating the dynamic capabilities - efficiency-centered BMD relationship. Moreover, the indirect effects of BSAL on novelty-centered and efficiency-centered BMD via dynamic capabilities are also moderated by environmental dynamism in an opposite manner. Theoretical and practical implications are discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Throughout the last decade, scholars have been endeavoring to understand how firms design business models (McDonald and Eisenhardt, 2019; Snihur and Zott, 2020).According to Zott and Amit (2007), BMD refers to the design of an activity system for an organization's boundary-spanning transactions. It encompasses at least four design themes, i.e., novelty, efficiency, lock-in, and complementarities. Business model design (BMD) is important because a mismatch between BMD and customer needs may result in a business failure (Guo et al., 2020; Hargadorn and Douglas, 2001). Scholars have also asserted that BMD is an overwhelming source of wealth creation (Guo et al., 2020; Zott and Amit, 2007). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Existing research on BMD has identified several antecedents such as new technologies and technological change (Chesbrough and Rosenbloom, 2002), changes in customer preferences (Teece,2010), new capabilities (Seelos and Mair, 2007), cognitive abilities and beliefs of venture founders and business model designers (Snihur and Zott, 2020; Aspara et al., 2011), creativity (Svejenova et al., 2010), and persistence (Sosna et al., 2010). However, recognizing that business models often cannot be fully anticipated in advance, especially in turbulent environments, McGrath (2010) points out that the designers must engage in experimentation and learning over time in their design. Thus, various forms of organizational learning, including trial-and-error learning (Sosna et al., 2010), experimentation (Ries, 2011; Bremner and Eisenhardt, 2019), and experiential learning and cognitive search (McDonald and Eisenhardt, 2019; Eisenhardt and Bingham, 2017), are regarded as influencing BMD through generating new ideas, experiences, and assumptions (Berends et al., 2016; Andries et al., 2013; Martins et al., 2015). Recently, Zha0 et al. (2020) and Wang et al. (2017) have added that exploitative and exploratory learning may be predictors of business model innovation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The aforementioned studies have indicated that various learning forms may affect BMD with different logics and mechanisms. However, a line of research has argued that a balance between exploitative and exploratory learning is crucial for firm survival and prosperity due to the synthesizing effect (March, 1991; Tushman and O'Reilly, 1996; Levinthal and March, 1993). In the organizational learning literature, exploratory and exploitative learning represent two fundamental, and perhaps the most influential, forms of organizational learning (March, 1991). Exploratory learning implies firm behaviors characterized by search, discovery, experimentation, and risk taking, while exploitative learning implies firm behaviors characterized by refinement, implementation, efficiency, and selection (March, 1991; He and Wong, 2004). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, to date, understandings of whether and how exploitative and exploratory learning jointly affect BMD are insufficient. In the extant literature, there has been little investigation of their balancing strategic effect (i.e., BSAL in the current study) on BMD. This not only leaves a research gap, but also may confuse managers into adopting BSAL as an operational and applicable learning strategy to improve the design of business models’ specific themes. This paper focuses on novelty and efficiency because they reflect fundamental alternatives for firms wishing to create value in dynamic environments. Moreover, novelty and efficiency are not mutually exclusive, and any given business model design can simultaneously be both novelty-centered and efficiency-centered (Zott and Amit, 2010). As recent research has started to link the two domains of organizational learning and business models (Zha0 et al., 2020; Wang et al., 2017), a deeper investigation of whether and how BSAL influences novelty-centered and efficiency-centered BMD may help researchers acquire a more nuanced understanding. This could provide novel insight for further BMD theory. To fill the above research gap, the first goal of the present study is to test the relationship between BSAL and noveltv-centered and efficiencv-centered BMD. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Another issue that the organizational learning and dynamic capabilities literature have addressed is that learning strategy may affect dynamic capabilities (Zollo and Winter, 2002; Eisenhardt and Martin, 2000). In addition, a line of research has argued that dynamic capabilities can also affect BMD (e.g., Teece, 2007, 2018). Noting this, investigating the possible mediating role of dynamic capabilities between BSAL and novelty-centered and efficiency-centered BMD has also become an important research direction because evidence of the mediating effects can prompt firms’attention to the issue of dynamic capabilities when applying BSAL. This eventually directs organizational practices to improving business models. Taken together, the second goal of the current study is to investigate whether dynamic capabilities would positively mediate the relationship between BSAL and novelty-centered and efficiency-centered BMD. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Finally, the effects of dynamic capabilities on different themes of BMD may vary, or even contradict, one another in their moderation by dynamic environments (Pavlou and El Sawy, 201l; Carlsson and El Sawy, 2008). This is because dynamic environments may have a negative effect on efficiency-centered BMD by increasing causal ambiguity and pressuring firms while promoting novelty-centered BMD by providing more opportunities and higher incentives (Pati et al., 2018; Waldman et al., 2001; McGrath, 2010; Pavlou and El Sawy, 2011). Considering this, the third goal of our study is to investigate whether and how environmental dynamism moderates the relationship between dynamic capabilities and novelty-centered and efficiency-centered BMD. Additionally, we also investigate whether the mediating effects of the dynamic capabilities between BSAL and novelty-centered and efficiency-centered BMD are moderated by environmental dynamism as Well. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This paper draws on a cross-industrial sample of 493 Chinese firms. Data were collected via a survey of senior executives, and analyzed using a set of ordinary-least-squares (OLS) regression models and the bootstrap procedure. We anticipated that BSAL would enable noveltycentered and efficiency-centered BMD; dynamic capabilities would mediate the positive effects of BSAL on novelty-centered and eficiencycentered BMD; environmental dynamism would positively moderate the dynamic capabilities - novelty-centered BMD relationship while negatively moderating the dynamic capabilities - efficiency-centered BMD relationship. Moreover, the indirect effects of BSAL on novelty-centered and efficiency-centered BMD via dynamic capabilities would also be moderated by environmental dynamism in an opposite manner. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The contributions of this study are threefold. Firstly, this study contributes to the organizational learning literature by advancing current knowledge of BSAL to the domain of BMD. It also provides empirical evidence in support of BSAL's positive effects on novelty-centered and efficiency-centered BMD. March (1991) argues that maintaining BSAL is a firm's best learning strategy. However, to date, only a handful of research studies have provided empirical evidence in support of the positive effects of BSAL. Moreover, these have been within limited domains such as new product development (Atuahene Gima and Murray, 2007) and innovation (He and Wong, 2004). Thus, our findings expand domains for the application of BSAL, and lend support to the argument for pursuing ambidexterity in organizational learning. Secondly, this study contributes to the dynamic capabilities literature by addressing the mediating role of dynamic capabilities between BSAL and BMD. We integrate BSAL and the influence of dynamic capabilities on BMD into one model and reconcile what has previously been presumed to be independent. The present study confirms the viewpoint posited by Teece (2010; 2018) that dynamic capabilities need to be combined with firm strategy (BSAL in the current paper) to produce a more significant effect on BMD. Finally, this paper contributes to the business model literature by showing, and empirically testing, whether and how an external factor (environmental dynamism in the present paper) may exert opposite influences on distinct themes (novelty and efficiency in the present paper) of the BMD. Thus, our findings promote understanding of the complications caused bv external factors which a focal firm mav face. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Theoretical framework and hypotheses ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1. Exploratory learning, exploitative learning, and novelty-centered BMD ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Drawing on the knowledge-based view (Grant, 1996), we first argue that organizational learning is an important source of knowledge and solutions for firms to solve various problems they face. This is because much of the knowledge and solutions are tacit, firm specific, and difficult to acquire by means of market transactions (Nonaka et al., 2001; Fjeldstad and Snow, 2018). Indeed, organizational learning (including both exploitative and exploratory learning) will be stimulated if the known solutions are below a focal firm's target (March, 1991). For firms that set BMD as a target, exploitative and/or exploratory learning may be stimulated according to the theories of satisficing (Simon, 1955) and prospect theory (Kahneman and Tversky, 1979). Moreover, from the discovery driven perspective, business models often cannot be fully anticipated (McGrath, 2010). Rather, they must be learned and experimented with through means of exploitation and exploration over time because there is no market in which one can buy comprehensive knowledge about the future (Sosna et al., 2010; March, 1991). Therefore, organizational learning (including both exploitative and exploratory learning) constitutes one of the theoretical foundations of business model design and dynamism (Fjeldstad and Snow, 2018). For example, Taobao, the largest C2C platform in China, has acquired a deeper understanding of the Chinese market through deliberate exploitative and exploratory learning. Then, it designed a novel and efficient “commission free” business model to compete with the “brokerage” business model of eBay in 2003, which eventually led to Taobao defeating eBay and winning the e-commerce war in the Chinese market from 2003 to 2006 (Han et al., 2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With respect to exploratory learning, drawing on the evolutionary view of BMD (Chesbrough,2010), exploratory learning and experimentation can relax design constraints, liberate design, and thereby create creative space for designing new (or updating existing) business models (Bjorkdahl, 2009; March, 1991; Zollo and Winter, 2002). In turn, this leads to investment of resources into an emerging business model and ongoing innovation in business models (Chesbrough, 2010; McGrath, 2010). Scholars have also acknowledged that the (new) lessons and knowledge acquired from exploratory learning can help penetrate the veil of ambiguity, which may facilitate novelty-centered BMD (Wu et al.,2019; Damanpour, 1991; Verona, 1999; Zollo and Winter,2002). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With respect to exploitative learning, Confucius once said, “review the past and you will know the new\". That is to say, by reviewing existing knowledge, one can obtain new insights. Drawing on the transfer learning theories (see Pan and Yang, 2010 for a review), scholars argue that exploitative learning can provide greater opportunities for new combinations and recombination of existing knowledge, from which new insight may emerge in designing business models (Nerkar, 2003; Cyert and March, 1963; Atuahene Gima and Murray, 2007; Katsikeas et al., 2018). Moreover, Bingham and Eisenhardt (2011) also argue that firms can achieve heuristics by learning from experience (i.e., exploitative learning), because repeated engagement allows firms to draw inferences and gain insight from the outcomes of their actions. These heuristics may introduce novelty into BMD. In addition, Sosna et al.'s (2010) case study of Naturhouse describes how exploitative learning creates new and unique knowledge for both parent organization and subsidiaries in its stage of scaling up the refined business model. Kohli and Melville (2019) and Sorescu (2017) find that the (exploitative) diffusion of digital technologies such as artificial intelligence (Al), big data, and cloud computing is generating new business models, which aim to harness these (existing) sophisticated and cutting-edge technologies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thus, both exploratory and exploitative learning may enable novelty-centered BMD. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2. Exploratory learning, exploitative learning, and efficiency-centered BMD ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the organizational learning literature, exploitative learning is a process through which refining and exploiting existing knowledge expedites tasks, which may in turn decrease firms’ transaction costs (Chow and Tsui, 2017; Atuahene Gima and Murray, 2007; March, 1991). Moreover, exploitative learning can make tacit knowledge explicit, which may enforce efficiency for using the existing knowledge in firms (Kale et al., 2002; Kale and Singh, 2007). Meanwhile, explicit knowledge enhances efficiency-centered BMD by improving senior managers' understanding of the causalities of a business model and communicating it throughout the organization (Zollo and Winter, 2002). Meanwhile in the BMD literature, according to Zhu et al. (2019) and Zott and Amit (2007, 2008), efficiency-centered BMD aims to reduce transaction costs and improve transaction efficiency. Most transaction costs, such as contracting, negotiating, monitoring, and enforcement costs, are derived from transaction uncertainty, complexity, risk, and information asymmetry (Williamson, 1975; Zott and Amit, 2008). Teece (2018) links exploitative learning and efficiency-centered BMD and argues that efficiency-centered BMD requires a good reading and understanding of the current practice, especially those dominant designs of business models at work in the market. Dominant designs of business models refer to those prevalent designs that can provide important directions to designers about the efficient deployment of resources and capabilities that undergird BMD (Utterback and Abernathy, 1975; Amit and Zott, 2015). Therefore, based on the theory of dominant designs (Utterback and Abernathy, 1975), through encouraging exploitative learning by borrowing and mindfulness (Loon and Chik, 2019), firms can enhance efficiency-centered BMD. This is because learning by borrowing and mindfulness (i.e., exploitative learning) from dominant designs of business models in an industry may simplify the transaction process, build more efficient transaction routines, and increase transaction transparency to improve transaction efficiency and achieve cost reduction (Zhu et al., 2019). Moreover, exploitative learning through borrowing and mindfulness on the dominant design may be the fastest and most reliable way to set appropriate cost structures, increase productivity, and maximize the utilization of assets and resources, while eliminating waste. This may also enforce efficiency-centered BMD (Osterwalder and Pigneur, 2010; Johnson et al., 2008). For example, Amazon did not invent a new business model. Rather, it borrowed from Sears Roebuck's famous mail-order business model and adapted it to the context of e-commerce. This greatly reduced transaction costs (Snihur and Zott, 2020; Amit and Zott, 2001). In addition, Weill et al. (2011) analyze the performance of various business models in U.s. markets over the 12-year period from 1997 to 2009. They find that those business models based on abundant intellectual property (a source of exploitation) tend to outperform other business models in cost reduction. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "While with respect to exploratory learning, Chatterjee (2013) argues that by considering different solutions and analyzing variations in activity systems (e.g., business models) across many businesses, managers can increase the odds of discovering and designing a more efficient cost reduction activity system for their own business. This is because exploratory learning, rather than exploitative learning, is more likely to help firms develop disruptive technologies. According to Karimi and Walter (2015), this often offers new benefits for firms such as simplicity, convenience, ease of use, reliability, ease of access, low prices, and low cost business models. Furthermore, Bjorkdahl's (2009) multiple case study showed that the exploration and creative integration of technologies into firms’technology (knowledge) bases (i.e., technology cross fertilization) saved various costs for the investigated firms in BMD processes. Technology cross-fertilization is defined as the process of integrating Key Enabling Technologies (KET) in order to obtain new technological components or products with the potential to lead to unforeseen advances and new markets (Paez-Aviles et al., 2018). Technology cross-fertilization involves exploring, discovering, and deciding the KET. This creates innovative approaches for integration, and results in unforeseen and uncertain outcomes. Therefore, in this paper, we argue that it is exploratory learning, rather than exploitative learning. In addition, Katsela and Palsson's (2020) recent case study shows how exploratory learning helps a Swedish city reduce costs and design an efficiency-centered business model for its logistics initiatives. The city does this through an exploratory analysis (learning) of potential variations in cost structure and revenue flow. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thus, both exploratory and exploitative learning may enable efficiency-centered BMD. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3. BSAL and BMD ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the view of managerial economics, there are diminishing marginal returns associated with both exploratory and exploitative learning (Ferreira et al., 2020; Nerkar, 2003; Kim and Atuahene Gima, 2010). On the one hand, only emphasizing exploitative learning while neglecting exploratory learning may foster structural inertia and reduce firms' capability to adapt to future environmental changes and new opportunities (Hannan and freeman, 1984). On the other hand, solely strengthening exploratory learning without increasing exploitative learning to an appropriate level may reduce the speed at which existing competences are improved and refined (March, 1991). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "However, exploration and exploitation may also add value to each other due to the synthesizing effect (He and Wong, 2004; Xiao et al., 2020). Indeed, exploitative learning helps firms achieve static efficiency by using local search, while exploratory learning helps firms achieve dynamic efficiency by using distant search or long jump (Lopez-Vega et al., 2016; Berends et al., 2016; Martins et al., 2015; Gavetti and Rivkin, 2007). The synthesizing or complementary effect may be leveraged by adjusting BSAL and maintaining an appropriate balance between exploration and exploitation over time (March, 1991; He and Wong, 2004). In terms of novelty-centered BMD, exploratory learning can facilitate exploitative learning by relaxing design constraints, enhancing design freedom, jumping long onto a new track, and providing an updated knowledge base for exploitative learning, through which firms can refine, select, and add novel features to their business models (Nerkar, 2003; McMillan, 2015). In terms of efficiency-centered MBD, exploratory learning can facilitate exploitative learning by comparing and analyzing variations in activity systems (i.e., business models) across many businesses and from different perspectives, and provide possibilities and options for exploitative learning. In this way, firms can better probe and implement more efficient approaches for reducing transaction costs, i.e., improving efficiency-centered business models (Nerkar, 2003; McMillan, 2015). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, March (1991) argued that maintaining an appropriate balance between exploration and exploitation is a primary factor in (activity) system survival and prosperity. Meanwhile, according to the activity system interpretation of business models, BMD is the conceptualization of a boundary spanning activity system that includes the mechanisms that connect these interdependent activities and the identification of the party that carries out each of the activities within the system (Zott et al.， 20ll). As such, from the perspective of information-driven activity systems (Zott et al., 2011; March, 1991; Baden-Fuller and Haefliger, 2013), BSAL may affect BMD as well as its themes, because information about the activity system (business model) accumulates over time. Additionally, a series of choices for designing and building each independent activity in the activity system must be made between gaining new information about uncertain alternatives and thus improving future returns (exploratory learning), and using the current information and corresponding actions to improve present returns (exploitative learning). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Moreover, from the perspective that sees business models as cognitive schemas (Martins et al., 2015; McDonald and Eisenhardt, 2019), BSAL enables thinking in multiple thought worlds through the joint use of two logics (i.e., exploration and exploitation). This allows managers to better solve these inconsistencies and non-routines in the designing processes. In turn, this may expand the knowledge base a firm owns with some ideas and solutions towards the tasks of novelty, while the others towards the tasks of efficiency (Lin and McDonough, 2014; Martins et al., 2015; Osiyevskyy and Dewald, 2014; Dougherty, 1992). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Finally, as argued in Sections (1) and (2), both exploitative and exploratory learning may have positive effects on novelty-centered BMD and efficiency-centered BMD. Thus, an appropriate BSAL might not be limited to only reducing the diminishing marginal returns caused by solely emphasizing a single form of learning. It may also give better play to the synthesizing effect of the two forms of learning for noveltycentered BMD as well as efficiency-centered BMD. Combining the aforementioned arguments, we propose: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hla. BSAL has a positive effect on novelty-centered BMD. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H1b. BSAL has a positive effect on efficiency-centered BMD ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.BSAL and dynamic capabilities ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Dynamic capabilities refer to firms’ ability to integrate, build, and reconfigure internal and external competences to address rapidly changing environments (Teece et al., 1997). According to Teece (2007), dynamic capabilities may include three components: sensing (the identification and assessment of opportunities and threats), seizing (the mobilization of resources to address opportunities and threats), and reconfiguration (also called transforming; the continuous renewal of a firm's tangible and intangible assets). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Drawing on the knowledge-based view of the firm (Grant, 1996), organizational learning can be seen as the origin and major mechanism for creating and developing dynamic capabilities (Chien and Tsai, 2012; Zollo and Winter, 2002; Easterby-Smith and Prieto, 2008). Teece et al. (1997) and Teece (2007) maintain that the capacity to reconfigure and transform, as the ultimate goal of dynamic capabilities, is itself a learned organizational skill. Indeed, a firm can develop dynamic capabilities through exploitative learning such as known knowledge acquisition, internalization, and dissemination as well as exploratory learning such as unknown knowledge search and experimentation (Dixon et al., 2014). Furthermore, Zollo and Winter (2002) have argued that dynamic capabilities can be sought through the experience accumulation process and deliberate cognitive processes that are applicable to mechanisms of both exploitative and exploratory learning. Research has also shown that organizational learning can enhance dynamic capabilities (Easterby-Smith and Prieto, 2008), and organizational learning itself can be regarded as “second order” dynamic capabilities (Collis, 1994; Zollo and Winter, 2002; Karimi and Walter, 2015). When (common or first-order) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "dynamic capabilities are insufficient, a firm may be stimulated to apply \"second-order” dynamic capabilities, that is, to conduct organizational learning to build and develop (common or first-order) dynamic capabilities (Daniel et al., 2014). As such, the “second-order” dynamic capabilities (i.e., organizational learning) may enable spontaneous responsiveness in novel situations and in recessionary conditions to develop (common or first-order) dynamic capabilities (Winter, 2003). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Based on an evolutionary perspective, dynamic capabilities can be considered complicated routines which have path dependency on resources and knowledge (Teece et al., 1997; Eisenhardt and Martin, 2000; Rothaermel and Alexandre, 2009). This path dependency can be influenced by organizational learning in that organizational learning is a crucial source of resources and knowledge that a focal firm holds (Eisenhardt and Martin, 2000; Zahra et al., 2006; Dixon et al., 2014). Dixon et al. (2014) note that a firm can form a development path of dynamic capabilities through its specific approaches to integrating adaptation and innovation. In this case, adaptation refers to exploitation and deployment of extant knowledge, while innovation refers to the exploration of new knowledge and path creation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Thus, from both the knowledge-based view of the firm and the evolutionary perspective, we have argued that both exploitative and exploratory learning have positive effects on dynamic capabilities. Thus, it can be reasonably inferred that maintaining an appropriate balance between them may exert a positive effect on dynamic capabilities, because it can take advantage of their synthesizing effect while avoiding the diminishing marginal returns. In addition, according to Dixon and Day (2010) and Dixon et al. (2014), jointly using the “second-order\" dynamic capabilities: adaptation and innovation (conceptually similar to exploitation and exploration) will enable firms to build (normal) dynamic capabilities. Combining the aforementioned arguments, we propose: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H2. BSAL has a positive effect on dynamic capabilities. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5. Dynamic capabilities and BMD ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Dynamic capabilities have been shown to influence performance at process levels through various mechanisms (Drnevich and Kriauciunas, 2011; Chae et al., 2014; Wang et al., 2012). These business processes are embedded in business models where the resources are deployed and their effects are expected to be realized (Ray et al., 2004). According to Teece (2016, 2018), Khodaei and Ortt (2019), Desyllas and Sako (2013), and Bocken and Geradts (2020), dynamic capabilities may influence and guide overall BMD, as they are as higher-order capabilities. As such, through sensing, seizing, and reconfiguration, they can identify, craft, refine, implement, and transform those lower-order capabilities such as value proposition, value creation, and value capture. Moreover, dynamic capabilities can read the environment and develop business models that address new threats and opportunities through innovating, adapting and creating changes that are favorable to customers and unfavorable to competitors (Teece, 2016). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the innovation literature, Agarwal and Selen (2009) and Albort-- Morant et al. (2016) link the notions of dynamic capabilities to innovation capability, demonstrating that dynamic capabilities may have a positive effect on innovation capability. Inigo et al. (2017), Amit and Zott (2001), Ge0rge and Bock (2011), and Bocken and Geradts (2020) further argue that dynamic capabilities may facilitate business model innovation because the dynamic capabilities of sensing, seizing, and transforming (reconfiguration) help firms transcend the dominant logic to which they are accustomed, which is no longer appropriate in the face of growing societal and environmental issues (Hart and Dowell, 2011; Sommer, 2012). Thus, dynamic capabilities are deemed critical for the innovation and selection of business models (Teece, 2018; Zahra et al., 2006). In addition, Gambardella and McGahan (2010) note that business model innovation is a consequence of dynamic capabilities that is geared towards the reconfiguration of downstream activities and capabilities. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In light of the above arguments, and based on the conceptual similarity between business model innovation and novelty-centered BMD, and following Bocken and Geradts (2020), we argue that dynamic capabilities can also affect novelty-centered BMD. This is due to the following three reasons according to the dynamic capabilities framework, i.e., sensing, seizing, and reconfiguration (Heider et al., 2020; Teece.2007). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The capability to sense novel opportunities and threats ahead of rivals is a crucial creative activity and strength of firms (Helfat and Peteraf, 2015; Teece, 1997, 2007). According to Teece et al. (2016), a dynamically capable firm is more likely to sense novel opportunities and threats (i.e., acquiring superior information, see Teece, 1997) than dynamically incapable firms. For instance, the dynamically capable firm may, at the outset sense the existence of customers with unmet needs who are willing and able to pay for a product or service that can rectify their predicament (Teece, 2018). Moreover, drawing on the attention-based view, paying attention to the right range at the right time and sensing emerging (superior) information is key to conducting right and novel value proposition of business models. This is because paying proper attention and accurate sensing can provide unbiased information at the right time points on the most recent opportunities and threats for firms to swiftly and precisely target and adjust the (cognitive) elements of value proposition such as the right and novel traits of product and/or service, customer needs, geography, and so on (Teece, 2018; Kirszner et al., 1998). These right and novel traits of business models refer to the new features that can correctly meet customers' needs and never appear in the existing business models. Thus, by applying more accurate sensing ahead of those dynamically incapable rivals, a dynamically capable firm is more likely to introduce novelty intoBMD. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Moreover, the capability to seize involves investment in technologies, market segments to be targeted,and so on (Teece,2007). Addressing those already sensed new opportunities and threats, and investing resources earlier and more presciently than competitors, may also introduce novelty for BMD. This is because some (especially tacit) novelty can be found and created during the implementation processes by those smart pioneers who act early and with precision (Teece, 2007, 2018; Adner and Kapoor, 2010). Accordingly, a dynamically capable firm (as a smart pioneer) may commit and invest resources, both earlier and with increased precision, to seize those sensed new opportunities. In this way, it can also cope with emergent threats better than its competition (Teece, 2018; Adner and Kapoor, 2010). As such, dynamic capabilities can affect novelty-centered BMD through smart seizure of novel opportunities and managing emerging threats. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Additionally, the capability of reconfiguration involves realigning structure, culture, and routines to manage opportunities and threats for firms (Teece, 2007, 2018). Reconfiguration is aimed at maintaining evolutionary fitness, and if necessary, escaping unfavorable path dependencies (Teece, 2007). To achieve this, a dynamically capable firm will be able to better address and create desirable external and internal conditions than competitors for those sensed and seized opportunities as early as they appear. They achieve this by periodically and accurately transforming aspects of the organizational structure and culture (Teece, 2007). In turn, this may facilitate and contribute to the novelty-centered BMD. Put simply, the earlier and more accurate conducting of reconfiguration than competitors facilitates a firm's adoption and application of novel features that have been sensed and seized into its BMD. In practice, earlier and more accurate structure reconfiguration, culture, and routines than its competitors helped Tiktok design and utilize a novel business model that facilitated its victory in the battle of mobile internet-based short video platforms. In sum, we present the following hypothesis: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "H3a. Dynamic capabilities have a positive effect on novelty-centered BMD. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "An alternative way for entrepreneurs to create wealth is to imitate rather than innovate - to act similar to established organizations, but with more efficiency (Rask and Ginzel-Jensen, 2020; Aldrich, 1999; Zott, 2003). The stronger a firm's dynamic capabilities, the more likely the firm can identify strategically relevant information from the environment and allocate resources to the cost-effective creation of content and sales (Barbara et al., 2018; Kichner, 2011). In turn, this may facilitate efficiency-centered BMD. This is because strong dynamic capabilities enable the creation and implementation of effective business models. This is done by rapid sensing and seizing of the best or dominant practice in an industry and accordingly fast reconfiguration of structure and culture to fit the process (Rajewska, 2019). Seeing this, we next argue that dynamic capabilities may affect efficiency-centered BMD according to the dynamic capabilities framework (Heider et al., 2020; Teece,2007). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The capability of sensing may affect efficiency-centered BMD because a dynamically capable firm can sense (surveil) the best or dominant practices in an industry with speed, accuracy and regularity (Teece et al., 1997; Teece, 2007). By identifying the main changes (opportunities and threats) in the context of BMD, it is possible to assess the ongoing changes and monitor whether business model changes are necessary (Khodaei and Ortt, 2019). In doing so, the dynamically capable firm can understand the choices available, and validate conjecture about costs, customers, competitors, complementors, distributors, and suppliers. In turn, this may mitigate transaction costs and therefore strengthen efficiency-centered BMD (Teece, 2007). Moreover, rapid and accurate sensing of the best or dominant practices may expedite firms’ understanding of the environmental constraints. This includes resource depletion that could create immediate discontinuities, threaten firms’ existing resources, capabilities, and/or cost structures (Teece, 2018; Hart and Dowell, 2011; Sheehan and Stabell, 2007). In turn, this also facilitate efficiency-centered BMD. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Moreover, seizing is about mobilizing resources to address emerging opportunities and threats and capturing value from doing so, by translating these into BMD (Teece, 2018). Hart and Dowell (2011) add that pressing challenges will require the mobilization of resources to address opportunities and threats, and to reap the (financial) benefits from doing so. Seeing this, the capability of seizing may have a positive effect on efficiency-centered BMD. This is because a dynamically capable firm may invest resources more efficiently (faster and better) to seize those practices that are sensed to be best or dominant better than its competitors with minimal dynamic capabilities (Teece, 2007, 2018). For example, Mobike and Ofo are two pioneer bike-sharing companies in China. Around the same time, they both sensed the opportunity in bike-sharing and each applied the dominant practice of “paying a deposit and then riding for free”in the Chinese market in the early 2010s. However, Mobike beat Ofo, and won the battle in 2018 by more efficiently (faster and more accurately) investing resources (Ouyang et al., 2019). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thus, a dynamically capable firm may minimize transactions costs and then achieve an efficiency-centered business model by means of rapid and accurate realignment of tangible and intangible assets and reconfiguring routines to maintain evolutionary fitness and escape unfavorable path dependencies (Teece, 2007). Moreover, Bowman and Ambrosini (2003) add that by reconfiguring routines, firms may reduce costs by exploiting economies of scale and scope. Reconfiguration (reform) has been found to shape the effectiveness of an organization's business models in the retail fuel sales market in Poland (Rajewska, 2019). In sum, we present the following hypothesis: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "H3b. Dynamic capabilities have a positive effect on efficiencycenteredBMD. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6.The mediating role of dynamic capabilities ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "According to the “resource - capability - advantage” framework of BV (Barney, 1991), knowledge (created by ambidextrous learning) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "alone as a resource is insufficient to determine BMD. Rather, it needs to be leveraged through transformational capabilities to convert resources into outputs (Hsu and Wang, 2012; Szulanski, 1996). Meanwhile, dynamic capabilities do not contain a definite domain of knowledge or skill, but the ability to create or transform domains (Danneels, 2002). Indeed, dynamic capabilities lead to a coherent set of knowledge and skills needed to address emerging opportunities and help sense and seize these opportunities before competitors (Zahra et al., 2006). As such, we can infer that dynamic capabilities may be created and strengthened through ambidextrous learning. In turn, they determine how they can be aligned and realigned to design business models in the context of BMD (Teece, 2007, 2018). By applying dynamic capabilities, firms can be led to either encourage exploratory learning, encourage exploitative learning, or use both and eventually absorb them into the BMD processes. In addition, Pundziene et al. (2019) argue that an organization with strong dynamic capabilities can better design and manage a systemic business model through skillfully using various forms of organizational learning. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thus, consolidating the aforementioned arguments, we propose that dynamic capabilities mediate the relationship between BSAL and novelty, as well as efficiency-centered BMD. This leads to the following hypotheses: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "H4a. Dynamic capabilities positively mediate the relationship between BSAL and novelty-centered BMD. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "H4b. Dynamic capabilities positively mediate the relationship between BSAL and efficiency-centered BMD. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.7.Themoderatingeffects ofenvironmentaldynamism ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Environmental dynamism is defined as the frequency and amplitude of change in the environment and general conditions of uncertainty (Duncan, 1972). Several studies have suggested that the degree of dynamism of changes in the environment may influence a firm's ability to adapt its resources to new requirements (Hanvanich et al., 2006; Dill, 1958; Dess and Beard, 1984). The environment is important for the current study because dynamic capabilities are context-dependent (Song et al., 2005; Teece, 2007; Lepore et al., 2019). As such, different environments imply different dynamic capability effects (Pundziene et al., 2019; Karimi and Walter, 2015; Eisenhardt and Martin, 2000). Research has implied that environmental dynamism may affect the magnitude of the dynamic capabilities - innovation relationship (Snihur and Zott, 2020; Teece et al.,1997; Teece 2007, 2018; McGrath, 2010; Pavlou and El Sawy, 2011). Accordingly, we argue that environmental dynamism has a positive moderating effect on the relationship between dynamic capabilities and novelty-centered BMD for the following reasons. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "First, as aforementioned, dynamic capabilities affect BMD novelty by addressing (sensing, seizing, and reconfiguring) opportunities and threats (Teece, 2007, 2018). Higher dynamic environments provide more opportunities and threats (Sull, 2009; Van den Bosch et al., 1999). This creates higher incentives and more space and freedom to employ dynamic capabilities to design novel business models (McGrath, 2010; Pavlou and El Sawy, 2011). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Second, because dynamic environments create discrepancies between existing and ideal business models, the increased need for sensing, seizing, and reconfiguration increases the value of dynamic capabilities on novelty-centered BMD (Teece, 2007, 2018; Miller and Friesen, 1983). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Third, the use of dynamic capabilities is information-driven and focuses on selecting activities to match changing environments (Pavlou and El Sawy, 2011). Therefore, the higher the environmental dynamism, the more likely the rigidities of existing business models act as alerts (information) forcing firms to apply dynamic capabilities to reconfigure their rigid and outdated business models to better match their environments. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thus, dynamic capabilities become more valuable for noveltycentered BMD in dynamic environments. Taken together, we propose ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "the following hypothesis: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "H5a. Environmental dynamism positively moderates the relationship between dynamic capabilities and novelty-centered BMD. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The benefits flowing from efficiency-centered BMD in the form of cost savings are also context dependent (Pati et al., 2018). However, dynamic environments increase uncertainty and lead to organizational contexts characterized by stress, anxiety and risk (Waldman et al., 2001). As such, dynamic environments may exert negative moderating effects on the dynamic capabilities i.e., the efficiency-centered BMD relationship. This is because it may invalidate and detract from the knowledge base, which in turn increases costs and losses for a focal firm (Zahra et al., 2006). This argument is also in line with Pati et al.'s (2018) findings: environmental dynamism negatively moderates the efficiency oriented BMD - performance relationship. Accordingly, we argue that environmental dynamism has a negative moderating effect on the relationship between dynamic capabilities and efficiency-centered BMD for the following reasons. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "First, dynamic environments may increase causal ambiguity, put pressure on firms, and then force them to conduct costly, time consuming, and often irreversible configuration of existing resources. Frequent reconfiguration is likely to increase transaction costs and therefore disrupt BMD efficiency (Song et al., 2005; Macher and Mowery, 2009; Amit and Zott, 2015). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Second, dynamic environments may invalidate the dominant practices in an industry, or create chaos which can increase transaction costs, and then attenuate the value of dynamic capabilities on the efficiencycentered BMD. This is due to changes in market needs, technologies, and rival products (Danneels, 2002; Szulanski, 1996; Amit and Zott, 2015). For instance, a firm may not be able to afford to wait long enough for an optimum reconfiguration outcome due to pressure originating from high level environmental dynamism (Das and Rahman, 2010; Jansen et al., 2006). Some firms may even lack the patience to allow interfirm relationships to develop, and thereby tend to treat collaboration with a supplier or a customer merely as a one-off business transaction (Heirati et al., 2016). In contrast, less dynamic environments favor more disciplined decision-making (Brown and Eisenhardt, 1997). They also lubricate the processes for sensing and seizing the best or dominant practices, and reconfiguring according to them in an industry. In turn, this may enforce the value of dynamic capabilities on efficiency-centered BMD. Moreover, environmental dynamism has been discussed in the business model literature, mostly as barriers or stumbling blocks (e.g., Chesbrough, 2010). Only rarely has it been linked with positive design outcomes such as novelty-centered design (Amit and Zott, 2015). Thus, environmental dynamism is expected to reduce the value of dynamic capabilities on efficiency-centered BMD. Consequently, we hypothesize: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "H5b. Environmental dynamism negatively moderates the relationship between dynamic capabilities and efficiency-centered BMD. ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Moorman and Miner (1998) find that firms in turbulent environments are more apt at improvising with experimentation (i.e., learning) than those in more stable environments. Building upon the foregoing arguments, we propose that environmental dynamism moderates the indirect　effects　of　BSAL　on　novelty-centered　BMD　and efficiency-centered BMD via dynamic capabilities. Because dynamic environments enforce the positive effect of dynamic capabilities on novelty-centered BMD, the indirect effects of BSAL via dynamic capabilities would be stronger for firms with high environmental turbulence, and weaker for firms with low environmental dynamism. On the other hand, because dynamic environments reduce the positive effect of dynamic capabilities on efficiency-centered BMD, the indirect effects of BSAL via dynamic capabilities would be weaker for firms with high environmental dynamism, and stronger for firms with low environmental dynamism. Our theoretical model is presented in Fig. 1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1640834d8a7af53e55d583eb41c3bf1faf17027133c05fd21664e92b066b285.jpg",
+        "img_caption": [
+            "Fig. 1. Theoretical model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "H6a. The indirect effect of BSAL on novelty-centered BMD via dynamic capabilities is stronger for firms with high environmental dynamism than those with low environmental dynamism. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "H6b. The indirect effect of BSAL on efficiency-centered BMD via dynamic capabilities is weaker for firms with high environmental dynamism than those with low environmental dynamism. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. Methods ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1.Participants and procedure ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Data were collected from February 22, 2019 to April 17, 2019 from three sources: A) EMBA students and alumni of the Management School at Lanzhou University who were senior managers at their respective firms during the survey period; and B) senior managers who were alumni of Lanzhou University; C) other senior managers who were members of the Wenzhou or Henan Chambers of Commerce, the most influential chambers of commerce in China. In China, most EMBA students are top or senior executives who are familiar with their companies’ operations, and thus we have included them in the survey. The data from EMBA students and alumni of Lanzhou University, the Henan Chamber of Commerce, and the Wenzhou Chamber of Commerce represent those firms located in the Northwest (underdeveloped), Central (medium development), and Southeast (well developed) regions of China. Therefore, our sample selection is representative of China as a whole. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We conducted a pilot test with 33 senior managers to examine the statistical properties of the study's measures. According to their feedback, the questionnaire was revised to better fit the study context. None of these 33 questionnaires were included in the final data analysis. After contacting potential respondents by e-mail, WeChat message, or phone to invite them to participate, we sent them the questionnaires. They were sent by either WeChat message or email, and we followed up with three reminders. In the invitation e-mails and WeChat messages, the researchers explained the study's purpose and assured the respondents that their responses would remain confidential—only the researchers would have access to the dataset. The respondents were asked to click on a link in the e-mail or WeChat message, which directed them to our online survey instrument. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "With the help of the Lanzhou University alumni association, the Wenzhou Chamber of Commerce, and the Henan Chamber of Commerce, we drew a random sample of 860 firms located in 34 Chinese cities such as Beijing, Shanghai, Lanzhou and Shenzhen. A major concern in survey research is that a single respondent may answer all of the questions in a consistent manner, resulting in common method bias (Podsakoff et al., 2003). To mitigate the potential for this bias, we designed the questionnaire to include two separate parts. Part A contained questions regarding demographic variables (e.g., firm age, firm size, industry sector, and annul revenue), environmental dynamism, exploratory, and exploitative learning. Part B contained questions regarding dynamic capabilities,novelty-centered BMD,and efficiency-centered BMD. For each firm, we invited two senior managers to participate, with one who had completed Part A and the other who had completed Part B, on a random basis. This design also enabled us to shorten the questionnaire requirements for the participants (i.e., only one part of the questionnaire). This reduced their response burden and improved response accuracy. A code generated by the respondents was used to match the two parts of the questionnaires. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We obtained matched questionnaires from 502 firms, with a participation rate of 58.8 percent. Nine surveys were eliminated due to missing data for key variables. The final sample size was 493. These respondents had positions of managing director, chief executive officer (CEO), or general manager in the firms. The mean of their involvement in strategic decision making was 5.56 on a seven-point scale ( $\\mathrm{.}1=$ very uninvolved and $^{7}=$ very highly involved). Average working experience in their current industries was 8.24 years. These data suggest that the respondents were experienced and knowledgeable about the issues under study, which increased our confidence in the quality of the data. The two respondents from each firm did not vary significantly in terms of their positions in the firm, average working experience in the current industry, or average participation level in strategic decision making. However, they differed in terms of age and education. In order to check the consistency between the judgments of the two respondents in each firm, we tested the correlations between their responses (Nunnally and Bernstein, 1994) with regard to A) “This organization's basic values include learning as key to improvement\", and B) \"Our firm's resource reconfiguration capability is strong” (these two questions were answered by both respondents). The correlations for these two questions between the two respondents were 0.87 $(\\mathtt{p}<0.001)$ and 0.76 $\\left(\\mathbf{p}<\\right.$ 0.001), respectively. The high levels of interrater reliability suggest that responses from different individuals in the same firm were consistent, validating our subjective measures. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The sample covered a range of industries, including manufacturing $(32.39\\%)$ , construction and real estate $(8.30\\%)$ , transportation and logistics $(4.66\\%)$ ， hotels and catering $(1.82\\%)$ ，agriculture $(7.49\\%)$ wholesale and retail $(6.28\\%)$ , software and information technology $\\left(8.30\\%\\right)$ , and biology and medicine $(5.67\\%)$ . Therefore, we ensured sufficient variation in firm environments and capabilities. On average, the responding firms employed 237 employees, with annual sales ranging from 20 million to over 6 billion Chinese Yuan, with an average firm age of 12 years. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To alleviate common method bias concerns, we used a questionnaire design which included multiple data sources (two senior managers filled out different parts of the questionnaires), guaranteed respondent confidentiality, and reduced item ambiguity (i.e., pilot tests). We applied Harman's single factor test by entering the study variables into a principal component factor analysis in which the first principle component accounted for 0.155 of the total variance. This is below the commonly accepted threshold of 0.5. Common method bias was then tested with an Mplus’ confirmatory factor analysis (CFA) in which a single-factor model was generated with all 26 measurement items joined into a single latent construct. This model had poor model fit: $\\chi2(230)=$ 4002.01, $\\chi2/\\mathrm{df}=17.40$ $\\mathrm{RMSEA}=0.18$ ， $\\mathrm{CFI}=0.30$ $\\mathrm{TLI}=0.23$ ,SRMR $=0.17$ . Thus, the results indicated no common method concerns (Podsakoff and Organ. 1986). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to minimize social-desirability bias in the construct measurements, the cover letter emphasized that there were no right or wrong answers, and that the responses would remain confidential (Zahra and Covin, 1995). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.Measures ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Environmental dynamism was measured by Jansen et al.'s (2009) 5-item scale. A sample item was “Environmental changes in our local market are intense\". We set an adverse response choice on this measure, and constructed a Likert scale for the response choices from 1 (strongly agree) to 7 (strongly disagree). The Cronbach's alpha, AVE, and CR for the scale were 0.90, 0.64, and 0.90 respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Exploratory learning was measured by 3 items adapted from the scale developed by Atuahene Gima and Murray (2007). One sample item was “\"we have learned new skills in areas such as funding new technology, staffing R&D function, training and development of R&D, and engineering personnel for the first time\". Participants responded to the items on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree). The Cronbach's alpha, AVE, and CR for the scale were 0.81, 0.60, and 0.81, respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Exploitative learning was measured by 3 items adapted from the scale developed by Atuahene Gima and Murray (2007) and Su et al. (2011). One sample item was “we have upgraded skills in product development processes in which the firm already possesses significant experience\". Participants responded to the items on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree). The Cronbach's alpha, AVE, and CR for the scale were 0.80, 0.57, and 0.80 respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dynamic capabilities were measured by Wu's (2007) 5-item scale. One sample item was ^“The resource reconfiguration capability of our firm is strong\". Participants responded to the items on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree). The Cronbach's alpha, AVE, and CR for the scale were 0.83, 0.55, and 0.83 respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Novelty-centered BMD was measured by four items from Zott and Amit's (2007) scale. One sample item was “The business model offers new combinations of products, services and information\". Participants responded to the items on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree). The Cronbach's alpha, AVE, and CR for the scale were 0.87, 0.62, and 0.87 respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Efficiency-centered BMD was measured by four items from Zott and Amit's (2007) scale. One sample item was “The business model enables a low number of errors in the execution of transactions\". Participants responded to the items on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree). The Cronbach's alpha, AVE, and CR for the scale were 0.88, 0.65, and 0.88, respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The original scales were in English, and were translated into Chinese by two Marketing PhD students who were fluent in both English and Chinese. Back-translation methods were used (Brislin, 1970). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.Control variables ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Firms of varying sizes and ages and in multiple industries present distinct BMD. Following Guo et al. (2016), we selected firm age, size, and industry as control variables in this study. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Results ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1.Testing the measurement model ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Convergent validity, discriminant validity, and unidimensionality were first assessed through an exploratory factor analysis (EFA) which showed an ideal loading pattern (see Appendix A). The measures were also assessed with Mplus’ confirmatory factor analysis (CFA). The CFA fit indices were: $\\chi2(215)=348.63$ ， $\\chi2/\\mathrm{df}=1.62$ ， $\\mathrm{RMSEA}=0.036$ ,CFI $=0.98$ ， $\\mathrm{TLI}=0.97$ , standard root mean residual $(\\mathrm{SRMR})=0.037$ .Ax2/ df ratio below 3 implied a good fit; CFI and TLI above 0.95 and SRMR below 0.05 were desirable. Good model fit indices evidenced convergent validity and unidimensionality. Convergent validity was also supported by the large and significant standardized loadings for all the constructs all items significantly loaded in respective latent factors, with standard factor loadings ranging from 0.64 to 0.88. This was also supported by the factor loading to standard error ratios, which exceeded 2.0 $({\\tt p}<0.01)$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We used two approaches to test discriminant validity. It was first tested by showing that the measurement model had a better model fit than a competing model with a single latent construct. Then, it was also shown to have a better fit than all other competing models in which pairs of latent constructs had been joined. Discriminant validity was also tested by showing that each square root of AVE of a construct was greater than each of its correlation coefficients with other constructs (see Table 1). In sum, these tests confirmed convergent and discriminant validitv and unidimensionalitv. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Reliability was assessed using both CR and AVE. All CRs exceeded 0.70, suggesting that they all had adequate reliability. Reliability was also supported because all AVEs exceeded 0.50 for all of the factors (Hair et al., 1995). Additionally, all Cronbach's alphas exceeded 0.70, further confirming good reliability. The descriptive statistics are presented in Table 1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2. Testing the hypotheses ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to avoid the possible threat of multicollinearity, we zerocentered all variables before regression (see Aiken and West, 1991). The regression results are presented in Table 2. BSAL predicted noveltycentered BMD $(\\gamma=0.178$ ， $\\mathbf{p}<0.001]$ and efficiency-centered BMD $(\\upgamma=$ 0.140, $\\mathbb{p}<0.01\\$ 0. Thus, Hypotheses la and 1b were supported. BSAL predicted dynamic capabilities $(\\gamma=0.239,\\mathrm{p}<0.001)$ . Thus, Hypothesis 2 was supported. Dynamic capabilities predicted novelty-centered BMD $(\\gamma=0.194$ ， $\\mathbb{P}<0.001]$ ) and efficiency-centered BMD $(\\gamma=0.175$ $\\mathfrak{p}<$ 0.001). Thus, Hypotheses 3a and 3b were supported. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We used a bootstrap approach to test the mediating effects of dynamic capability in our model (see Preacher and Hayes, 2004; Shrout and Bolger, 2002). The results are summarized in Table 3. With a $95\\%$ CI for 10,oo0 repetitions, the indirect effect of BSAL on novelty-centered BMD via dynamic capabilities was significant (effect $=0.036$ $\\mathrm{CI}95\\%$ $=[0.016,0.063])$ , and the indirect effect of BSAL on efficiency-centered BMD via dynamic capabilities was also significant (effect $=~0.033$ ${\\bf C I}95\\%=[0.014\\$ , 0.057]). This supports H4a and H4b. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The interaction term between dynamic capabilities and environmental dynamism was significant in predicting novelty-centered BMD $(\\gamma=0.117$ $\\mathsf{p}<0.01;$ 0, as well as efficiency-centered BMD $(\\gamma=-0.177,$ P $<0.001\\$ . We conducted a simple slope analysis and probed the interaction effect in Figs. 2 and 3 by using the online calculator developed by Preacher et al. (2006). We set the high level of environmental dynamism as 1sD above the mean, the medium level as the mean, and the low level as 1SD below the mean. The simple slope analysis revealed that the positive dynamic capabilities - novelty-centered BMD relationship was significant at the low level of environmental dynamism (simple slope $=$ 0.337， $\\mathtt{p}\\,<\\,0.001\\$ ), at the medium level (simple slope $=0.493$ ， $\\textbf{p}<$ 0.001), and at the high level of environmental dynamism (simple slope $=0.648$ ， $\\mathbb{p}<0.001]$ 0. Thus, Hypothesis 5a was supported. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The simple slope analysis also revealed that the positive dynamic capabilities- efficiency-centered BMD relationship was significant at the low level of environmental dynamism (simple slope $=0.442$ ${\\tt p}<0.001)$ ， at the medium level (simple slope $=0.255$ ， $\\mathbb{p}<0.001]$ o, but not at the high level of dynamism (simple slope $=0.068$ ， $\\mathbf{p}=0.257.$ 0. Thus, Hypothesis 5b was supported. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/34378dd9b25bcc783920a6db7b35f6ad141355dca2cc16599116c280edf919db.jpg",
+        "table_caption": [
+            "Table1 Descriptive statistics, square roots of AVE, and correlations for study variables. "
+        ],
+        "table_footnote": [
+            "Note. $\\Nu=493$ $\\mathbf{M}=$ mean, ${\\boldsymbol{\\mathsf{S D}}}=$ standard deviation. The square roots of AVE appear on the diagonal. Each square root of AVE is larger than its correlation coefficients with other constructs. Coefficients above 0.15 are significant $(\\mathsf{p}<0.05)$ ；above0.20 $({\\tt p}<0.01)$ "
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "On the basis of significant interaction between dynamic capabilities and environmental dynamism on BMD, we tested the indirect effects of BSAL on novelty-centered and efficiency-centered BMD via dynamic capabilities at the low, medium and high levels of environmental dynamism by the bootstrap approach in Table 3 (Preacher and Hayes, 2004; Shrout and Bolger, 2002). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "With a $95\\%$ CI of 10,0o0 repetitions, we found that the indirect effect of BSAL on novelty-centered BMD via dynamic capabilities was significant at the medium level (effect $=0.041$ ， ${\\bf C I}95\\%=[0.015,\\$ 0.079])and at the high level of environmental dynamism (effect $=0.121$ ， ${\\mathrm{CI}}95\\%=$ [0.031, 0.250]), but not at the low level (effect $=-0.002$ ${\\mathrm{CI}}95\\%=$ [-0.055, 0.041]). We also found that the indirect effect of BSAL on efficiency-centered BMD via dynamic capabilities was significant at the low level of environmental dynamism (effect $=0.089$ ， ${\\bf C I}95\\%=[0.002$ 0.193]) and at the medium level (effect $=\\,0.028$ ， ${\\bf C I}95\\%\\,=\\,[0.006,$ 0.062]) of environmental dynamism, but not at the high level of environmental dynamism (effect $=-0.023$ ， $\\mathrm{CI}95\\%=[-0.081\\$ , 0.017]). Thus, Hypotheses 6a and 6b were supported. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.1. Key findings ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Using survey data from 493 firms of various industrial sectors from China with multi-source data and a time-lagged design, the current study finds that BSAL has a positive effect on efficiency centered, novelty-centered BMD, as well as dynamic capabilities. Also, dynamic capabilities has a positive effect on efficiency-centered and noveltycentered BMD. On this basis, we found that the relationships between BSAL and efficiency-centered and novelty-centered BMD are positively mediated by dynamic capabilities. We also found that environmental dynamism positively moderates the relationship between dynamic capabilities and novelty-centered BMD, while negatively moderating the relationship between dynamic capabilities and efficiency-centered BMD. Additionally, environmental dynamism is shown to moderate the indirect effects of BSAL on efficiency-centered and novelty-centered BMD via dynamic capabilities. These findings address the hypotheses proposed in Section 2. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "These results show that BSAL has positive effects on both efficiencycentered and novelty-centered BMD. This finding is consistent with Tushman and O'Reilly (1996), He and Wong (2004), and Berends et al. (2016) in the ambidexterity premise. It is also in line with the design thinking view that argues that a balance between exploitation and exploration is essential to a successful business model (Cooper and Junginger, 2011; Lee and Joo, 2017). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the mediating effect of dynamic capabilities between BSAL (source of available knowledge) and BMD (a form of outcomes) is in line with prior studies (Lin and Wu, 2014; Wu, 2007; Barney, 1991; Dierickx and Cool, 1989） that theorize dynamic capabilities as resource-directing abilities through which firms can allocate and invest resources more efficiently and then achieve more desirable outcomes. For example, Lin and Wu (2014) find that dynamic capabilities mediate the relationship between valuable resources and performance; Wu (2007) finds that dynamic capabilities mediate the relationship between entrepreneurial resources and start-up performance. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Finally, most studies have addressed the positive moderating effect of environmental dynamism on the capability-outcome relationship. Nevertheless, the dynamic literature has shown that environmental dynamism negatively moderates the relationships between dynamic capabilities and process efficiency and product effectiveness (i.e., two components of efficiency-centered BMD, see Pavlou and El Sawy, 2010). Thus, our finding on the negative moderating effect of environmental dynamism on the dynamic capabilities - efficiency-centered BMD relationship is in line with Pavlou and El Sawy (2010) and Jansen et al. (2006). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.2. Theoretical implications ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The current study has made several theoretical implications. First, this paper provides a new understanding to reveal the effect of BSAL and extend its application to the context of BMD. Our study contributes to the BMD literature by empirically supporting the notion that BSAL is an enabler of BMD. This notion has remained at the conceptual level in previous research (McGrath, 2010; Chesbrough, 2010; Martins et al., 2015). As the first study to empirically test the specific effects of BSAL on the two key themes of BMD (i.e., efficiency-centered BMD and novelty-centered BMD), we found that BSAL may positively predict BMD. Therefore, BSAL could be developed into a strategic tool to improvebusiness models. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Second, the current study advances the BMD literature by showing that as a transformational device, dynamic capabilities may transform available knowledge (i.e., outcomes of BSAL) into business characteristics and advantages (i.e., themes of BMD). In establishing this, it draws on the “resource - capability - advantage” framework of RBV (Barney, 1991), and builds on the basis of the significant direct effects of BSAL on dynamic capabilities as well as dynamic capabilities on BMD. The findings illustrate that the positive relationship between BSAL and BMD is mediated by dynamic capabilities. They also indicate that dynamic capabilities may enable firms to benefit from learning strategy. Dynamic capabilities connect learning strategy with BMD, through which available knowledge can be used to apply functions of sensing, seizing, and reconfiguration to business model design. This behavior may be especially important since dynamic capabilities can provide solutions for BMD in a more relevant and direct manner (Teece et al., 2016). Good BMD depends on efficient and effective use of available knowledge (McGrath, 2010). As such, firms should continuously improve learning strategy, especially BSAL, and provide sufficient and relevant knowledge for using dynamic capabilities, thereby improving business model design. In sum, the confirmation of the “resource - capability - advantage\" framework of RBV in the context of BMD deepens our understanding about the process through which learning strategy affects BMD. And it may help researchers better theorize the reasons why organizational learning influences organizational outcomes (e.g., business characteristics and advantages). ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8356935677720cb7a7b9317b86f8fec94d6365e9e76650e1f42c4536acb1978.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "ssusm eps am s>dxd >d se q  am su = "
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/67887b0346d563cd875949eeeae746e120eef15c6f9a31c8758b0ffdff64cef9.jpg",
+        "table_caption": [
+            "Table3 Results of Indirect Effect of BSAL on Novelty Centered BMD and Eficiency Centered BMD via Dynamic Capabilities and Conditional Indirect Effect of Environmental dynamism. "
+        ],
+        "table_footnote": [
+            "Note: The indirect effects were calculated by bootstrap approach with 10,000 repetitions. "
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/68f6b8665ace1159516f14aecb8bb22a28c184518ce1ed5fa869fb423dddf25f.jpg",
+        "img_caption": [
+            "Fig. 2. The moderating effect of environmental dynamism on dynamic Capabilities (DCs) - novelty centered BMD relationship. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the moderating effects of environmental dynamism on the dynamic capabilities - efficiency-centered BMD and dynamic capabilities - novelty-centered BMD relationships offer insights into how firms adjust the emphasis and extent of using dynamic capabilities to affect efficiency-centered and novelty-centered BMD according to the degree of environmental dynamism. Nicholls-Nixon et al. (2000) have demonstrated that a firm's ability to undertake change may be a function of its environmental context. By creating incentives and new knowledge to employ dynamic capabilities to address new opportunities and threats, we found that environmental dynamism enforces the positive effect of dynamic capabilities on novelty-centered BMD. On the other hand, by creating causal ambiguity, putting pressure, and invalidating best practices when applying dynamic capabilities, environmental dynamism was found to reduce the positive effect of dynamic capabilities on efficiency-centered BMD. This knowledge will be helpful in developing theories to cope with other themes of BMD in the future (e. g., lock-in and complementarities). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/21d4cfaa719af18cec2a1732e35714a7b9ebb7dbf9378713e667abbfb00c369b.jpg",
+        "img_caption": [
+            "Fig. 3. The moderating effect of environmental dynamism on dynamic Capabilities (DCs) - efficiency centered BMD relationship. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.3.Practical implications ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The present study has several practical implications. First, it reveals that BSAL enforces both efficiency-centered BMD and novelty-centered BMD by simultaneously providing novel and refined available knowledge. This sets up confidence and confirms conjecture among managers for applying BSAL in the process of BMD. As such, consistent with Ferreira et al. (2020) and O'Reilly and Tushman (2013), the findings suggest that organizations simultaneously implement exploring and exploitative learning and maintain an appropriate balance among them in contexts of BMD. This could promote synergy and mitigate diminishing returns caused by sole emphasis on a single form of learning. Put differently, the present study advocates a continuous basis for resolving the tension between exploration and exploitation. This is because strengthening the effects of synthesizing, and simultaneously weakening the effects of diminishing returns may provide better knowledge (including both novel and refined knowledge) to support BMD. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Additionally, our study suggests that even though managers have recognized the importance of BSAL, they should not neglect the dynamic capabilities in the processes of BMD, because dynamic capabilities can convert resources into outputs (Hsu and Wang, 2012; Szulanski, 1996). This is consistent with Teece's (2018) argument that excellent asset orchestration skills (a form of dynamic capabilities) are needed for effective management of new business structures (i.e., BMD in this paper) alongside existing operations (BSAL in this paper). Thus, because of the significance of the mediating effect of dynamic capabilities between BSAL and BMD, besides strengthening effective learning and optimizing $B S A L_{3}$ .organizations should also invest resources to build and enforce dynamic capabilities. In turn, this may guide, leverage, and align organizational learning to mitigate blind spots and cognitive biases, and thus improve the design of business models (Pundziene et al., 2019; Teece,2018). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Finally, the current study recommends that firms pay attention to environmental dynamism when they design business models. If their strategy is to pursue novelty, they should take advantage of high dynamic environments and apply dynamic capabilities to introducing novel characteristics to business models. Meanwhile, if their emphasis is to pursue efficiency, they should take advantage of low dynamic environments and apply dynamic capabilities to improve efficient characteristics to business models. Paying attention to and being contingent of environmental dynamism may help firms jointly use BSAL and dynamic capabilities to convert resources into outputs, and improve business models. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.4.Limitations and future research ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We acknowledge two main limitations in the present study. First, though we invested in our construct validation and data collection to ensure the quality of our self-reported survey data, the potential for unidentified biases remains. Second, our data are cross-sectional and represent only Chinese firms. Thus, caution is needed when drawing cause-and-effect inferences from them. Our findings should not necessarily be interpreted as evidence of underlying causal relationships, but rather as supporting a prior causal scheme. More studies are needed to replicate our findings and provide additional corroboration for the proposed hypotheses. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Our results also point to several additional interesting avenues for future research. Previous studies have implied that designers’ beliefs (Aspara et al., 2011), creativity (Svejenova et al., 2010), and persistence (Sosna et al., 2010) may also mediate the relationship between organizational learning and BMD. Therefore, in light of this, it would be interesting to test competing mediation effects to see which mechanism plays a stronger role in explaining the effects of BASL on BMD. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Because dynamic capabilities are information-intensive (Pavlou and El Sawy, 2006), it is possible to examine how the effect of dynamic capabilities on BMD can be strengthened or weakened by identifying other moderating variables. For instance, innovation culture may help facilitate the value of dynamic capabilities on BMD (Norris et al., 2013). This is because innovation culture affects the assessment and understanding of environmental dynamics (Wei et al., 2013), which is conducive to firms’ recognition of external environmental changes, and enhances perceptions of opportunities and threats. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Finally, inferred from the arguments of Amit and Zott (2015) and Teece et al. (2016), other important themes of BMD (e.g., lock-in and complementarities) may also be affected by dynamic capabilities. Thus, we recommend future research to assess the effects of dynamic capabilities on lock-in and complementarities centered BMD, and investigate how environmental dynamism affects them. This will also give managers more specific and actionable guidelines to make high-quality decisions on BMD in dynamic environments. This research would be particularly fruitful given our findings that environmental context matters. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This means that to better translate BSAL into BMD, firms need to build and enhance dynamic capabilities and combine dynamic capabilities with BSAL. Yet it also implies that firms need to emphasize and consider the variegated, and even opposing, moderating effects of environmental dynamism when they design business model themes. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The authors gratefully acknowledge financial support by the National Natural Science Foundation of China (Grant No. 71972094). ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/535703dd60b71496265cc57f4fec950a32c27333a282ffa53e539fc5d83ee137.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b999af6cb35f0018c92b6a60202927447221b93e00f90b64ab299107af38cb1.jpg",
+        "table_caption": [
+            "Appendix B. Scales and Items "
+        ],
+        "table_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Adner, R., Kapoor, R., 2010. Value creation in innovation ecosystems: how the structure of technological interdependence affects firm performance in new technology generations. Strat. Manag. J. 31 (3).   \nAgarwal, R., Selen, W., 2009. Dynamic capability building in service value networks for achieving service innovation. Decis. Sci. J. 40 (3), 431-475.   \nAlbort-Morant, G., Leal-Millan, Antonio, Cepeda-Carrion, G., 2016. The antecedents of green innovation performance: a model of learning and capabilities. J. Bus. Res. 69 (11),4912-4917.   \nAldrich, Howard, 1999. Organizations Evolving. Sage, London.   \nAmit, R., Zott, C., 2001. Value creation in e-business. Strat. Manag. J. 22 (6-7), 493-520.   \nAmit, R., Zott, C., 2015. Crafting business architecture: the antecedents of business model design. Strategic Entrepreneurship Journal 9 (4), 331-350.   \nAndries, P., Debackere, K., Looy, B.V., 2013. Simultaneous experimentation as a learning strategy: business model development under uncertainty. Strategic Entrepreneurship Journal 7 (4), 288-310.   \nAspara, J., Lamberg, J., Laukia, A., Tikkanen, H., 2011. Strategic management of business model transformation: lessons from Nokia. Manag. Decis. 49 (4), 622-647.   \nAtuahene Gima, K., Murray, J.Y., 2007. Exploratory and exploitative learning in new product development: a social capital perspective on new technology ventures in China. J. Int. Market. 15 (2), 1-29.   \nBaden-Fuller, C., Haefliger, S., 2013. Business models and technological innovation. Long. Range Plan. 46 (6), 419-426.   \nBarbara, K., Alexander, E., Alexander, K., Christina, S., 2018. Toward a dynamic capabilities scale: measuring organizational sensing, seizing, and transforming capacities. Ind. Corp. Change 1-24.   \nBarney, J.B., 1991. Firm resources and sustained competitive advantage. J. Manag. 17 (1),99-120.   \nBerends, H., Smits, A., Reymen, I., Podoynitsyna, K., 2016. Learning while (re-) configuring: business model innovation processes in established firms. Strat. Organ. 14 (3), 181-219.   \nBingham, C.B, Eisenhardt, K.M., 2011. Rational heuristis: the 'simple rules that strategistfms xriaaa1314   \nBjorkdaJlogyeriiandtmd a integrating ICTs in mechanical enginring products. Res. Pol. 38 (9), 1468-1477.   \nBoenaiusu innovation: organization design and dynamic capabilitie. Long. Range Plan. 53 (4).   \nBowmanitbada views of the firm inform corporate-level strategy. Br. J. Manag. 14 (4), 289-303.   \nBremner, R.P., Eisenhardt, KM., 2019. Experimentation, Bottlenecks, and Organizational Form: Innovation and Growth in the Nascent Drone Industry. Working paper, Stanford Technology Ventures Program.   \nBrislin, R.W., 1970. Back-translation for cross-cultural research. J. Cross Cult. Psychol. 1 (3), 185-216.   \nBrown, S.L, Eisenhardt, K.M., 1997. The art of continuous change: linking complexity theory andtimepaced evluion n relntlessy shifing organizations Am . 42 (1), 1-34.   \nCarlsson, Sven, El, Sawy, Omar, A., 2008. Decision Support in Turbulent and HighelocityEnirmntsHanbook nDeison urt Systms ol.  Sinr Berlin Heidelberg.   \nChae, H, Koh, C.E., Prybutok, V.R., 2014. Information techology capability and firm performance: contradictory findings and their possble causes. MIS Q. 38 (1), 305-326.   \nChatterjee, S., 2013. Simple rules for designing business models. Calif. Manag. Rev. 5 (2), 97-124.   \nChesbro  2umel at rtiti d  L Range Plan. 43 (2-3), 354-363.   \nChrmt value from invation: evidence frmxerox corporation'stechnology spin-off companies. Ind. Corp. Change 11 (3), 529-555.   \nChin,,Ta , aabl, n, a performance J. Organ.Change Manag.25 (3)434444.   \nChow, C.K, Tsui, W.H, 2017. Organizational leaning, operating costs and a cosoliatonpoliy teChnee ailneindustry .TranportManag (1), 108-118.   \nCollis, D.J., 1994. Reearch note: how valuable are organizational capabilities? Strat. Manag. J. 15 (S1), 143-152.   \nCooper, iner ,Lk, T. 2 Hnk Management Berg Publishers.   \nCyert, R.M., March, J.G., 1963. A Behavioral Theory of the Firm. Prentice Hall, Englewood Cliffs.   \nDamano, 1991. rganizatonalvaton: etaanalysisof eft f determinants and moderators. Acad. Manag. J. 34 (3), 555-590.   \nDaniel, EM, Ward, J.M, Franken, A, 2014. A dyamic capabiliies persective of IS project porfliomanagementJtratInfSyst232)95111.   \nDanneels, E., 2002. The dynamics of product innovation and firm competences. Strat. Manag. J. 23 (12), 1095-1121. i   \nDas, T,Raan,N 20minats f paprusrat all: a conceptual framework. J. Bus. Psychol. 25 (1), 55-74.   \nDess, GG, Bard DW, 1984 Dmensons of organizational task envirnments Am. Sci. Q. 29 (1), 52-73.   \nDesyllas, P., Sako, M., 2013. Profiting from busines model innovation: evidence from Pay-As-You-Drive auto insurance. Res. Pol. 42 (1), 101-116.   \nDierick sst advantage. Manag. Sci. 35 (12), 1514-1514.   \nDil, W.R,1958. Environments as an influence on managerial autonomy. Adm. Sci. Q. 2 (4), 409-443.   \nDixn,arinllstf failure in an unstable institutional environment. J. Change Manag. 10 (3), 275-292.   \nDixon, S, Meyer, K., Day, M., 2014.uilding dynamic capabilities of adaptation and innovation: a study of micro-foundations in a transition economy. Long. Range Plan. 47 (4), 186-205.   \nDougherty, D., 1992. A practice-centered model of organizational renewal through product innovation. Strat. Manag. J. 13 (S1), 77-92.   \nDevihria1laintcndinsditf contibutions of ordinary and dynamic capabilities to relative frm performance. Strat. Manag. J. 32 (2), 254-279.   \nDuncan, R.B., 1972. Characteristics of organisational environments and perceived environmental uncertainty. Adm. Sci. Q. 17 (3), 313-327.   \naster an integrative role or learning? Br. J. Manag. 19 (3), 235-249.   \nEisenhararr thinkingdngadtlgiit24   \nEisenhar, Mn amicaabie Wha ar taM J. 21 (10-11), 1105-1122.   \nFerreira, J., Coelho, A, Moutinho, L, 2020. Dynamic capabilities, creativity and innovation capability and their impact on competitive advantage and firm performance: the moderating role of entrepreneurial orientation. Technovation 92-93, 1-18.   \nFjedstad, ,CC, 20ussmls and oranizandLnRa Plan. 51 (1), 32-39.   \nGambarlul a technologies and their implications for industry structure. Long. Range Plan. 43 (2-3), 262-271.   \nGaveti G., Rivkin, J.W., 2007. On the origin of strategy: action and cognition over time. Organization ence 18 (3), 420-439.   \nGeorge, G., Bock, A.J., 2011. The business model in practice and its imlications for entrepreneurship research. nterpren Theor, Pract. 35 (1),811.   \nGrant, RM1996. Toward a knowledge-based theory of thefrm Strat Mana. J. 17 (S2), 109-122.   \nGuo, H, Su, Z., Ahlstrom, D., 2016.Business model iovation: the effects of exploratory economy. AsiaPac. J. Manag 33 (2)33549   \nGu,H,,aluakt orientatin inbusnessmdl deign and digita startu peformane J. Prd. Innovat. Manag. 37 (4), 352-372.   \nHair, J.F., Anderson, R.E, Tatham, R.L, Black, W.C., 1995. Mutivariate Data Analysis, fourth ed. NJ: Prentice Hall, Englewood Cliffs.   \nHan, T,B,J,25uin Kreanfhn amTba,s biggest online commerce: the case of fashion e-commerce company Accommate. Seoul J. Business 21 (1), 87-104.   \nHannan, M.T, Freeman, J.A., 1984. Structural inertia and organizational change. Am. Socio. Rev. 49 (2), 149.   \nHanvaniiva,rlln With organizational performance: the moderating role of turbulence. J. Acad. Market. Sci. 34 (4), 600-612.   \nHargado, , oulas, Y, 2001When ations meet institutons: isn nd t design of the electric light. Adm. Sci. Q. 46 (3), 476-501.   \nHart S,Dwel G. 2latralresourcebased viewof the fm: ffte ya after. J. Manag. 37 (5), 1464-1479.   \nHe, Z,Wng PK, 2004 Exoraton s. xloitatn: an pirical test of t ambidexterity hypothesis. Organ. Sci. 15 (4), 481-494.   \nHeider, A., Gerken, M., Dinther, N.V., Hilsbeck, Marcel, 2020. Business model innovation through dynamic capabilities in SMEs - evidence from the German mittelstand. J. Bus. Res. https://doi.org/10.1016/jbusres.2020.04.05. In press.   \nHr benefit frmcustmer and supl collaboratoninmetiive t environments? Ind. Market. Manag. 55 (5), 50-58.   \nHelfat, C.E., Peteraf, M.A., 2015. Managerial cognitive capabilities and the microfoudtons f damiccapabileStratManaJ.36 6),3   \nHuanlit mediating role of dynamic capability. Br. J. Manag. 23 (2), 179-205.   \nInio,,ada,l uil an staly exploring evolutionary and radical approaches through dynamic capabilities. Ind. Innovat. 24 (5), 515-542.   \nJansen, J, Dnosch, F,Vlerda, HW, 2006.Exloratory invation, exitaiv innovation, and performance: effects of organizational antecedents and environmental moderators. Manag. Sci. 52 (11), 1661-1674.   \nJan,era exploitation: the moderating role of environmental dynamism Leader. Q. 20 (1), 5-18.   \nJohnson, M.W., Christensen, C.M, Kagermann, H., 2008. Reinventing your business model. Harv. Bus. Rev. 86 (12), 50-59.   \nKahneman, D., Tversky, A., 1979. Prospect theory: an analysis of decision under risk. Econometrica 47, 263-291.   \nKale, P., Singh, H., 2007. Building firm capabilities through learning: the role of the alliance learning process in alliance capability and firm-level alliance success. Strat. Manag.J. 21,90   \nKale, P, yer J., ingh, H, 02.Alliance capability, stck markt ren, a long-term alliance success: the role of the alliance function. Strat. Manag. J. 23 (8), 747-767.   \nKarimi, J., Walter, Z., 2015. The role of dynamic capabilities in responding to digital disruption: a fatorbasd studyof the wspaer dstry J. Manag If St 3 (1), 39-81.   \nKatsela, K, Plsson, H., 2020.Viable buiness models for city lgistic: exloring the ot structure and the ecnmy of scale in aSwedish initiative Re. Transport. o 100857   \nKatsikeas, C.S., Auh, S., Spyropoulou, S., Menguc, B., 2018. Unpacking the relationship between sales contl and salesersn performance: a regulatory fit perspetiv. J. Market. 82 (3), 45-69.   \nKhodaei, H., Ortt, R., 2019. Capturing dynamics in business model frameworks. J. Open Innov.: Technol. Market Complex. 5 (1), 8.   \nKichner, , 211. Jon Paton's big bet: will dgital frst' bring hme the Ban? Columbia Journal. Rev. 50 (2), 43-47.   \nKm,N,AtumKgxratryadxtmak for new product development\\*. J. Prod. Innovat. Manag. 27 (4), 519-536.   \nKirszner, Laurie, G., Stephen, R.M., 1998. The Brief Holt Handbok, second ed. Harcort Brace & Company, Fort Worth.   \nKohl, Ri,  9i  vid yis  s (1), 200-223.   \nLee, Y, Joo, J., 2017. Using design methods to improve design quality: verbalizers vs visualizers. Des. J. 20 (1), S1471-S1484.   \nLepore, D., Nambisan, S., Tucci, C.L, Zahra, S.A., 2019. Digital transformation & fms innovatve stratis caabil systm andusinemdelaMa Proc. (1), 14623.   \nLevinthal, D.A., March, J.G., 1993. The myopia of learning. Strat. Manag. J. 14 (8), 95-112.   \nLin, H., Medonough, E.F., 2014. Cognitive frames, learning mechanisms, and innovation ambidexterity. J. Prod. Innovat. Manag. 31 (S1), 170-188.   \nLin, Y., Wu, L.Y., 2014. Exploring the role of dynamic capabilities in firm performance under the resource-based view framework. J. Bus. Res. 67 (3), 407-413.   \nLoon, M, Chik, R., 2019. Efficiency-centered, innovation-enabling business models of hightechME vienfmHngnAsiaPaMana61)   \nLpe-ValVae6Wrand rh paths in open innovation. Res. Pol. 45 (1), 125-136.   \nMachn performance in semiconductor manufacturing? Br. J. Manag. 20 (1), 41-62.   \nMarch,J,1991.Exloration and exloitatonrganizatonallin Organ (1), 71-87.   \nMartins, L.L., Rindova, V.P., Greenbaum, B.E., 2015. Unlocking the hidden value of concepts: a cognitive approach to business model innovation. Strategic Entrepreneurship Journal 9 (1), 99-117.   \nMdnald Miad, KM29Pal a st, na ma effective busines-model design. Adm. Sci. Q. 65 (2), 1-41.   \nMcgrath, RG., 2010.Business moels: a discovery driven approach. Long. Rane Pan. 43 (2-3), 247-261.   \nMcmilan, 25Exlorton and exotation in scien: thr mact on scie and technological outcomes. Int. J. Innovat. Manag. 19 (2), 1-11.   \nMiller, D., Friesen, P.H., 1983. Strategy-making and environment: the third link. Strat. Manag. J. 4 (3), 221-235.   \nMoorman, C., Miner, A.S., 1998. The convergence of planning and execution: improvisation in new product development. J. Market. 62 (3), 1-20.   \nNerar,A0dis gl?hvaftmral xratotratf knowledge. Manag. Sci 49 (2), 211-229.   \nNicholl-,Cor, A,W, 2.raic expemnta: understanding change and performance in new ventures J. Bus. Ventur. 15 (5), 493-521.   \nNonaka, I., Toyama, R., Konno, N, 2001. Seci, ba and leadership: a unified model of dynamic knowledge creation. Long. Range Plan. 33 (1), 5-34.   \nNorris, K, Francisco, L, Ghulam, N., 2013. Cultural values and entrepreneurship. Enterpren. Reg. Dev. 25 (9-10), 703-707.   \nNunnally, J.C., Bernstein, 1.H., 1994. Psychometric Theory, third ed. McGraw-Hill, New York.   \nOReily CM raa dxtert ast, future. Social ence Electr. Publ. 27 (4), 324-338.   \nOsiyesky,4nts,tsaiax thogivedivrofalemanerntonstdpins change. J. Small Bus. Manag. 53 (4), 1011-1032.   \nOsterwalder, A, Pigneur, Y., 2010. Business Model Generation. John Wiley and Sons, New Jerey.   \nOuyang,Y., et al, 2019.CompetitiveBike: competitive analysis and popularity prediction ofbike-sharing apps using multisure data EEE Trans. Mobile Comut 18 (8) 1760-1773.   \nPaez-Ail, C, ualaFeliu, , Samitr, , .Crfertilizaton f ky an technologie:anmirical study ofnanotechnology-related projctsbasd on inovatnmanagment stratgi.ngchlMana49（79),5   \nPan, S., Yang,Q., 2010. A survey on transfer learning. IEEE Trans. Knowl. Data Eng. 22, 1345-1359.   \nPati, RK, Nadakmar, MK, Ghbadian, A., Ireland, RD., ORegan, N, 2018 Busines model design-performance relationship under external and internal contingencies: evidence fmSMEanmrin ecnmngRangPlan51 759   \nPavlou, P.A., Sawy, 0.A., 2011. Understanding the elusive black box of dynamic capabilitie. Decs. Sci. J. 42 (1), 239-273.   \nPodsakoff M 1.elf-reorts  rganizatonal resarch: problms and prs. J. Manag. 12 (4), 531-544.   \nPodsakf, PMMackezie , L YPdsakff, , 003Cmnmd biases in behavioral research: a critical review of the literature and recommended remedies. J. Appl. Psychol. 88 (5), 879-903.   \nPreacher, KJ., Hayes, A, 2004.SS and AS procedures or estmating idirect fts in simple mediation models. Behav. Res. Methods Instrum. Comput. 36 (4), 717-731.   \nPreacher, KJ, Curran, PJ, Bauer, DJ, 2006. Comutational tools for probing interactonrenmlnandt analysis. J. Educ. Behav. Stat. 31 (4), 437-448.   \nPundziene, A., Haton, S., Teece, D.J, 2019. 5G, Dyamic Capabilities and Business ModelsIeareIst29Ea on Inovation and Entrepreneurship (TEMS-ISIE). IEEE.   \nRajwsaaabisidintfv thebuilrllalmandau 16-23.   \nRask, M, GuzeJensen, F, 2020Businesmodl desin and prformance in nast markets. Manag. Decis. 58 (5), 927-947.   \nRay,GBaJMa0bils competitive advantage: choosing the dependent variable in empirical tests of the resorcebadviaMaa21)3   \nRies, E., 2011. The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Succesful Businesses. Crown Business, New York.   \nRothaem Alandre,M09.mbixteritynln t moderating lfabrivapatyrga204)5   \nSeelos, C., Mair, J., 2007. Profitable businessmodels and market creation in the context of deevey a aviaaagt 2 4④, 4   \nSheehan, N.T., Stabell, C.B., 2007. Discovering new business models for knowledge intensive organizations. Strat Leader. 35 (2), 2229.   \nShrout, P.E., olger, N., 2002. Mediation in experimental and nonexperimental studies: new procedures and recommendations. Psychol. Methods 7 (4), 422-445.   \nSimon, H.A., 1955. A behavioral model of rational choice. Q. J. Econ. 69 (1), 99-118.   \nSnihur, Y., Zot, C., 2020. The genesis and metamorphosis of imprints: how business modelinlvncadana5   \nSommer, A., 2012. Managing Green Business Model Transformations. Springer-Verlag, Berlin.   \nSong, M., Dyer, B., Thieme, R.J., 2005. Conflict management and innovation performance: an integrated contingency perspective. J. Acad. Market. Sci. 34 (3), 341-356.   \nSorescu, A., 2017. Data-driven busines model innovation. J. Prod. Inovat. Manag. 34 (5), 691-696.   \nSosna, M., Trevinyo-Rodriguez, R.N, Velamuri S.R, 2010. Business model innovation through trial-and-error learning: the Naturhouse case. Long. Range Plan. 43 (2-3), 383-407.   \nSu,Z,L,Y,xrryn axli different organizational structures. Asia Pac. J. Manag. 28 (4), 697-714.   \nSull, D, 2009. TheUpide of Turblene: Seizing ortunity n anUcrtanld. Harper Business, New York.   \nSvejenova, S., Planellas, M,Vives, L, 2010.A individual uiness mdel in the makin: achef qust fr creative freedomLongRange Plan43 (23), 44.   \nSzulanski, G., 1996. Exploring internal stickines: impediments to the transfer of best practice within the frm Strat. Manag. J. 17 (S2), 2743.   \nTeec,lnat (sustainablnris fmanataa813   \nTeesinesmls bu sradiaLnRaP 43 (2-3), 172-194.   \nTeece, D.J, 2018. Business models and dynamic capabilities. Long. Range Plan. 51 (1), 40-49.   \nTc,ads management. Strat. Manag. J. 18 (7), 509-533. risk, ueranty, an sratgy in the vaton my Calif anag ev8 (4) 13-35.   \nTushmanMrelly,96mextouranizatonmanain e andrevlnaycagManae84)   \nUtterback, J.M., Abermathy, W.J., 1975. A dynamic model of process and product innovation. Omega 3 (6), 639-656.   \nVan, d.B.F. A.J., Volberda, H.W., De Boer, M, 199. Coevolution of firm absorptive capacity and knowledge environment: organizational forms and combinative capabilirgan5   \nVerona, G.,1999. A resource-based view of product development. Acad. Manag. Rev. 24 (1), 132-142.   \nWaldman, D.A., Ramirez, G.G., House, R.J., Puranam, P., 2001. Does leadership matter? CEO leadership attrbutes and profitability under conditions of perceived environmental uncertainty. Acad. Manag. J. 4 (1), 134-143.   \nWang, N, Liang, H, Zhong, W., Xue, Y, Xiao, J., 2012.Resource sructuring or capability building? An empirical study of the business value of information technology. J. Manag. Inf. Syst. 29 (2), 325-367.   \nWang,Dgoapaaarial business model innovation in a transition economy. J. Organ. Change Manag. 30 (5), 779-796.   \nWei, Y.S., O'Neill, H, Lee, R.P., Zhou, N, 2013. The impact of innovative culture on individual employees: the moderating role of market information sharing. J. Prod. Innovat. Manag. 30 (5), 1027-1041.   \nWeill, P., et al, 2011. The business models investors prefer. MIT Sloan Manag. Rev. 52 (4), 17-19.   \nWilliamson, O.E, 1975. Markets and hierarchie. In: Faulkner, D. Ed.), Strategy: Critical Perspectives on Business and Management. Routledge, New York, pp. 26-30.   \nWinter, 2003ertandn dm capabii Strataa J 24 ), 991-995.   \nWu, Y., 2007 Entrereneurial resources, dynamic capabilities and start-up performane of Taiwan's high-tech frms. J. Bus. Res. 60 (5), 549-555.   \nWuYZhnM9lstnita business model design? Chin. Manag. Stud. 13 (4), 840-859.   \nXiao,Daa,0hif bdy-sai eah organizatinambidextertycapacityanmiricalrearchin thChneecotext Proc. Sixth Int. Forum Decision Sci. 47-63. https:/doi.org/10.1007/978-981-13- 8229-16.   \nZahra, S.A., Covin, J.G., 1995. Contextual influences on the corporate entrepreneurshipperformarelanp:lngiuinanalyisusn   \nZahraia business model design: mediating eects of strategic learning and bricolage. Int. Enterpren, Manag. J. (1), 1-31.   \nZhuXnJ19Thf innovatioandbusinessmdlfrnwprodt develpment spedconnget perspective. Technovation 86-87.   \nZoMirle  th d capabilities Organ sci. 13 3), 339-351.   \nZott, C., 203.Dynamic capabilities and the emergence of intraindustry differential fim performance: insights from a simulation study. Strat. Manag. J. 24 (2), 97-125.   \nZott, C., Amit, R., 2007. Business model design and the performance of entrepreneurial firms. Organ. Sci. 18 (2), 181-199.   \nZot, CAi,fi umk sraain implications for firm performance. Strat. Manag. J. 29 (1), 1-26.   \nZott,C.,Amit, R., 2010.Business model desig: an activity system persctive. Lng. Range Plan. 43 (2-3), 216-226. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

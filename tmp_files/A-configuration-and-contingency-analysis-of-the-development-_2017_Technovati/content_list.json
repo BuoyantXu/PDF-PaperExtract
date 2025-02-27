@@ -1,0 +1,859 @@
+[
+    {
+        "type": "text",
+        "text": "A configuration and contingency analysis of the development chain ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dirk J. Primus ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Brvant Universitv.1150Douglas Turnpike.Smithfield.RI 02917.USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nProduct Development   \nSupply Chain   \nDevelopment Chain   \nConfiguration research   \nContextual factors ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The area where product development (PD) and the supply chain (SC) intersect and interact to support new product introductions (NPI), the development chain (DC), is still under-researched territory. Based on a PD/SC interface with multiple sub-process connections, this study uses a configuration approach to classify project-level observations into DC groups with similar patterns of implementation. Further, the relationship between DC groups, contextual factors and NPI performance is investigated. In a sample of $124\\;\\mathrm{NPI}$ projects,fourDC groups with distinct configurations are detected that interact with context in terms of industry clock-speed, annual firm revenue, product architecture complexity, agility of the product delivery strategy and newness. The results indicate that deliberate management of the PD/SC interface as a bundle of interrelated sub-process connections and careful alignment with the contextual terrain can benefit NPI performance. Overall, this article contributes to the body of knowledge concerned with NPI through vital insight into current practice at the interface of PD and SC. Further, it is envisaged that the detailed characterizations of the DC configurations and their interaction with context provided in this study serve to guide the purposeful management of the DC, as well as future research in this important area. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In 1999,Srivastava, Shervaney and Fahey recognized that the important business domains of the Supply Chain (SC) and Product Development (PD) are not independent from each other and suggest that “exploiting their interdependencies is more likely to lead to marketplace success than focus on just one\" (p.169). In a recent review of literature on concurrent PD and SC design, Gan and Grunow (2016) identify multiple design attributes as such interdependencies that require the joint work of PD and SC. Existing frameworks concerned with the characteristics of the PD/SC interface, as presented in Hult and Swan's (2003), Croxton et al.'s (2001) or Rogers et al.'s (2004) work, propose to examine and manage the interdependencies at the level of multiple sub-processes. More recently, Simchi-Levi, Kaminski and Simchi-Levi (2008) coined the term Development Chain (DC) to emphasize the pivotal role of the intersection between PD and SC in new product introductions (NPI). Accordingly, the Development Chain (DC) is referred to as the union of PD and SC across multiple sub-process interfaces that supports new product introductions (NPI). Making NPI's effective is evidently far from trivial: Recent studies report NPI mortality rates reaching as high as $95\\%$ (Hilletofth and Eriksson, 2011). As a consequence, research and practice should be increasingly concerned with the DC as a means to improve NPI performance. Interestingly, recent work still notes a remarkable deficit in research that addresses the link between PD and SC (Tan and Tracey, 2007; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hilletofth and Eriksson, 2011). ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Existing frameworks that characterize the PD/SC interface imply that each sub-process represents a specific source of information and expertise, each pair of sub-processes corresponds to a specific set of interdependencies, and, finally, that active connections between PD and SC sub-processes need to be implemented to cope with their interdependencies.As it is PD and SC people who need to work jointly to detect, address and exploit the interdependencies, connections between PD/SC sub-processes retain a purely conceptual meaning (Wheelwright and Clark, 1992; Srivastava et al., 1999). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A number of prior studies have investigated the implementation of connections across the PD/SC interface (e.g. Wheelwright and Clark, 1992; Kahn and Mentzer, 1996, 1998; Tatikonda and Stock, 2003; Petersen et al., 2005; Koufteros et al., 2005; Zacharia and Mentzer, 2007; Tsinopoulos and Mena, 2015). However, the findings from this stream of research are limited, because they focus on one specific connection between selected PD/SC processes, or they investigate highlevel constructs that collapse multiple connections across sub-processes into one internal or external dimension. Empirical work that studies the patterns, the multidimensional shapes that are created by the implementation of a full range of DC sub-process connections as an interrelated bundle, providing comprehensive scope and high-resolution, does not exist. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This paper contributes to the literature that is concerned with the nexus of PD and SC with a configuration and contingency analysis of a full range of multiple sub-process connections. For that purpose, 1 cluster project-level observations with similar implementation patterns of multiple sub-process connections into mutually exclusive groups and refer to them as DC configurations. In addition, this study examines the interaction and compatibility between DC configurations and context. Accordingly, this study extends a contingency view of the implementation of PD/SC connections from previous studies (O'Leary-Kelly and Flores, 2002; Tatikonda and Stock, 2003; Koufteros et al., 2005; Tsinopoulos and Mena, 2015) to a full range of DC sub-processes. Based on extant work, the contextual variables examined in this work include industry clock-speed, firm size, SC strategies and product related factors. An analysis of this kind promises an advanced understanding of how the multiple sub-process connections are configured under varying circumstances. Finally, an examination of the relationship between DC groups, contextual factors and NPI performance can guide the deliberate management of the DC. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The paper begins with a review of the literature that establishes the theoretical foundations of this study, identifies how this work advances the body of knowledge in this area and presents the conceptual model for the empirical part. The sections that follow introduce the main constructs, concepts and develop the hypotheses. The next sections present measures, describe the sample and show the results. The study concludes with a discussion of results, limitations of the work and the implications for research and practice that is concerned with the DC. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Theoretical foundations, research deficits and conceptual model ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A common theme amongst prior work that studies connections across the PD/SC interface is that the key implementation characteristic is the strength or intensity of the connection, because it determines a connection's capacity to cope with interdependencies (Wheelwright and Clark, 1992; Kahn and Mentzer, 1996, 1998; Tatikonda and Stock, 2003; Koufteros et al., 2005; Zacharia and Mentzer, 2007; Le Dain and Merminod, 2014). In the case of the DC, mutual and performance critical dependencies between PD and SC sub-processes arise, when outputs from one domain become inputs for the other (Wheelwright and Clark, 1992） and when decisions in one domain potentially constrain or enable processes in the other (Fixson, 2005). Broadly put, connections with higher intensity will provide more capacity to cope with such interdependencies to affect performance. On the empirical front, Koufteros et al. (2005) investigate PD/SC connections using an information processing perspective and find that stronger internal and external connections improve product innovation, product quality and profitability. Zacharia and Mentzer (2007) employ a resource dependency theory (RDT) perspective to examine the PD/ logistics interface and find that greater involvement improves PD performance. This study is the first that examines the relationship between the intensity of connections and performance with a PD/SC interface that is grounded in multiple sub-processes. Zacharia and Mentzer's (2007） study provides an important conjecture for the implementation of multiple sub-process connections at the PD/SC interface. Specifically, they suggest that when the PD process is broken up into multiple sub-processes, as is the case with the DC, some connections with the logistics process might be more beneficial than others. Correspondingly, teams in different types of PD projects may place differing degrees of emphasis on the individual sub-process connections of theDC. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A second common theme amongst existing work that investigates the implementation of connections across the PD/SC interface is a contingency view. The contingency argument applied to a multidimensional PD/SC interface is three-fold: Firstly, existing research with a contingency view suggests that contextual factors are a determinant of the implementation of individual connections (Koufteros et al., 2005; Zacharia and Mentzer, 2007; Tsinopoulos and Mena, 2015). Zacharia and Mentzer's (2007） study confirms that greater salience of the logistics process determines its degree of involvement with the PD process. Tsinopoulos and Mena (2015) empirically confirm that contextual factors product newness and the position of the decoupling point affect the timing and scope of customer and supplier connections with the PD process. Secondly, a contingency view considers that individual connections interact and need to be consistent among each other, such that their intensities create a match, to affect performance (Koufteros et al., 2005; Flynn et al., 2010). For example, Flynn et al. (2010) found a significant interaction effect between customer and supplier connections on operational performance, suggesting that there is an optimum in the product of their connection intensities. A third approach argues that consistency (fit) between the intensity of connections and contextual factors will improve performance. The argument for fit follows the logic of structural contingency theory, which states that the closer an organizational structure meets the task demands created by context, the better the performance (Lawrence and Lorsch, 1967; Drazin and Van de Ven, 1985; Bresman and Zellmer-Bruhn, 2013).More specific to the PD/SC interface, Tatikonda and Stock (2003) argue that product related factors, such as complexity or novelty determine the degree of task interdependence and therefore the required connection intensity. Similarly, Koufteros et al. (2005) suggest that the relationship between connection intensity and performance is contingent on characteristics of the external environment, such as the pace and magnitude of technology changes. Other recent work in this area also considers contextual factors that relate to the product (Lau, 2011) or to strategic orientation (O'Leary-Kelly and Flores, 2002; Hong et al., 2011). This investigation is the first that applies all three facets of the contingency argument to a multi sub-process PD/SC interface. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To capture that the individual intensities of sub-process connections are contingent on one another (Koufteros et al., 2005) and that different emphasis may be placed on different sub-process connections under different conditions (Zacharia and Mentzer, 2007) in a holistic manner, this examination employs a configuration approach. Configuration models analyze multidimensional profiles and are therefore well suited to study complex, multivariate organizational phenomena, like the DC (Boyer et al., 20o0). Configuration research is widely accepted in strategic management and has been used in a PD context (Bissola et al., 2014) as well as in a SC context (McKone-Sweet and Lee, 2009; Flynn et al., 2010). In addition to providing a holistic analysis of multiple dimensions as an interrelated bundle, rather than a series of isolated variables, a configuration approach is advantageous because it effectively deals with issues of multicollinearity (Flynn et al., 2010). In a study that closely relates to the DC, Flynn et al. (2010, p.61) identify five configurations of SC integration (SCI), which differ in terms of overall strength, “the extent to which SCI activities are carried out\", and balance, “the extent to which a company pays equal attention to all [...] dimensions of SCI\". They hypothesize and confirm that strength and balance determine the relationship between SC integration and performance. Correspondingly, this analysis examines the aggregate intensity, defined as the total intensity of all DC sub-process connections, and pattern variance, defined as the degree of variability in intensities across all DC sub-process connections, as the key parameters that link DC configurations with context and performance. This is the first empirical examination that studies contingencies of multiple sub-process connections between PD and SC with a configuration perspective. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The conceptual model, shown in Fig. 1, illustrates the analytical approach and summarizes the contribution of this study. Firstly, it is expected that DC configurations can be distinguished by the pattern of intensities of their sub-process connections. Similar to Flynn et al. (2010), the model postulates that the aggregate intensity and the pattern variance determine the relationship between DC configurations, contextual factors and performance. Specifically, in accordance with prior work that investigates the interaction between the PD/SC interface and contextual factors, it is expected that context influences the implementation of DC sub-process connections (e.g. Tsinopoulos and Mena, 2015) and, based on the logic of structural contingency theory, that consistency (fit) between DC configurations and contextual factors will improve NPI performance (e.g. Flynn et al., 2010). The specific contextual factors shown in Fig. 1 were selected during the review of existing research, when the literature indicated a strong link with the implementation of PD/SC connections. Detailed support for this selection is provided in the discussion of each contextual factor and the development of hypotheses in Section 3.3. Overall, an “a posteriori\" configuration and contingency analysis of the DC contributes to a better understanding about the implementation and performance impact of PD/SC sub-process connections in practice. Finally, this investigation addresses a research deficit in terms of studies at the project level and the use of a contingency perspective, identified in a review of the closely related supply chain integration (SCl) literature by Kim (2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d51f935bc9209e28e37cb392906594e2f3bb51fe966f138252178fd8aba0a36d.jpg",
+        "img_caption": [
+            "Fig. 1. Conceptual model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. Constructs, concepts and hypotheses ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Viable sub-process linkages at the PD/SC interface ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Because management of PD and SC are vast areas of research and practice, a careful definition of scope is required for the empirical part of the study. As noted in the introduction, frameworks concerned with the nature of the PD/DC interface agree that is useful to identify and manage the interdependencies between the two domains across multiple sub-processes (Srivastava et al., 1999; Croxton et al., 2001; Hult and Swan, 2003). However, these frameworks show a clear disparity in terms of scope and terminology from one another and from existing process models of PD (see Cooper, 2005; Crawford and Di Benedetto, 2008; Ulrich and Eppinger, 2011). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This may in fact impede an application of the PD/SC interface construct, because practitioners and researchers from PD and SC are not able to associate scope and terminology with the actual sub-processes that are implemented for their products. To avoid this problem in this investigation, a specific example from the introduction of a new tangible product was chosen as a starting point and then the terminology and scope of the interface was refined in multiple reviews with support by members of a Technology Council (see Appendix C for a summary description of the Technology Council) from a diversified Fortune 1000 firm, as well as a review of the literature that has related PD and SC subprocesses to the PD/SC interface. The resulting array of sub-processes at the PD/SC interface shown in Table 1 is compatible with prevalent PD/ SC frameworks, as well as extant process models of PD. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the area in the supply chain domain that intersects with PD to support NPI, the focus is on sub-processes that are directly associated with “planning, implementing, and controlling the efficient, effective flow and storage of goods, services, and related information from the point of origin to point of consumption for the purpose of\" accurately executing customer orders (Bowersox et al.,1999). Consequently, SC sub-processes include order processing, production planning, procurement, inbound logistics, production (fabrication and assembly), as well as outbound logistics (Thaler, 2003; Croxton, 2003). In addition, the view of PD and SC applied in this work is that of an end-to-end process, which includes customer and supplier processes (Thaler, 2003; Forza et al., 2005). On the customer side, the interface applied in this study distinguishes between demander and lead user processes. Specifically, lead user processes refer to how the new product will be used and experienced by customers (Thomke and von Hippel, 2002). Demander processes refer to how customers prefer to order and receive new products (Rungtusanatham et al., 2003). On the supply side, the interface applied distinguishes between supplier sub-processes that relate to the integration of critical components (bottleneck, leverage and strategic) and those that relate to non-critical components of the new product (Kraljic, 1983; Simchi-Levi et al., 2008). Connections with suppliers’ processes can benefit PD processes in various ways, for example, by providing an understanding of the extent and method of quality control processes on suppliers’ outputs. In the PD domain, the focus of this study is on the sub-processes that are required to convert a product idea and its business case into a revenue producing product. Accordingly, PD sub-processes include product design, process design, sourcing of prototype components and process equipment, prototyping and testing, as well as launch & ramp-up. The PD sub-processes are defined in accordance with Pisano (1996), Krishnan and Ulrich (2001), Thaler (2003), Schroeder et al. (2011), as well as Ulrich and Eppinger (2011). Similar to prevalent frameworks for the PD/SC interface, this work concentrates on cross-domain linkages rather than intra-domain linkages between sub-processes. In other words, it is acknowledged that a link between product design and process design exists during development, however, intra-domain sub-process connections are not the subject of this examination. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e1600ef79484e939c8423734ff7237a3cd69c6bec921b07b54a9c39dfe593a5d.jpg",
+        "table_caption": [
+            "Table1 Sub-processes at the PD/SC interface. "
+        ],
+        "table_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2. Capturing the intensity of DC sub-process connections ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To capture how the abstract idea of connection intensity can be implemented in practice, connection intensity is defined in accordance with prior work (Kahn and Mentzer, 1996, 1998; Flynn et al., 2010) as the degree of collaboration across DC sub-processes. Based on existing work concerned with cross-domain linkages, the spectrum for the intensity of a sub-processes connection ranges from no collaborative activity to full collaboration (informally sharing ideas, jointly solving problems, practically working in the same group) (see Wheelwright and Clark, 1992; Kahn and Mentzer, 1998; Hansen et al., 2005). Interestingly, contact frequency has been considered as a dimension of intensity, but it has been reported to be less effective than collaboration, at least in a PD setting (Brown and Eisenhardt, 1995). Put in the context of this study, existing work suggests that the degree of collaboration between DC sub-processes is the key dimension that links the implementation of connections and performance. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.DC groups and contextual variables ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This section leverages literature that emphasizes how contextual factors influence the implementation of PD/SC connections to develop testable hypotheses that relate DC configurations to context.One contextual factor is industry. A plethora of PD research [See Ernst's (2002) discussion of Cooper and Kleinschmidt's NewProd series on the chemical industry or Iansiti and Clark's (1994) study on the automotive industry] that focuses on single industries suggests that industry membership matters during development and introduction of new products (Ernst, 2002). More specific to the nexus of PD and SC, Zacharia and Mentzer (2007） suggest that industry context affects how product development and logistics processes interact via industry clock-speed. Accordingly, industry clock-speed may exercise an influence on PD/SC connections, because fast paced industries imply a greater rate of change and, thus, a higher degree of interdependencies at the PD/SC interface. As a consequence, higher clock-speed should elevate the aggregate connection intensity in the DC. In addition, high clock-speed industries favor competencies in specific DC sub-processes, such as logistics or rapid prototyping and put a stronger constraint on time-to-market. Therefore, the allocation of connection intensity may occur more selectively, with focus on those DC sub-processes that have the highest performance impact. In order to investigate the interaction between industry clockspeed and DC configurations, the following hypothesis is tested: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H-1: There is a difference in industry clock-speed across the DC groups, such that greater clock-speed corresponds with (i) greater aggregate intensity and (i)greaterpatternvariance. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Existing work reports that firm characteristics play an important role in the organization of PD project teams. Firm size, in particular, has been noted to have an effect on how much focus is put on NPI's (Wheelwright and Clark, 1992). Specifically, in small organizations one or a few new product introduction efforts are the primary focus of attention, while in large organizations NPI's become “the exception for the ongoing operating organization\". Put in the context of this study, in large organizations, the people participating in the DC are more likely to divide their time between day-to-day duties and supporting the NPI. Moreover, large firms may employ more formal practices in their NPI efforts than small firms (Koufteros et al., 2005). Consequently, larger organizations will likely be more selective and formal with the activity that is dedicated to DC connections. OECD firm size criteria revenue and employees are employed to examine the interactions between firm size and DC configurations via the following hypotheses: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H-2: There is a difference in firm size across the DC groups in terms of a:the annualrevenue,such that greater annual revenuecorresponds with (i)lower aggregateintensity and(ii)greaterpatternvariance ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b:the number of employees, such that a higher number of employees corresponds with (i) lower aggregate intensity and (i)greater pattern variance. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Product related contextual factors are also important, such as product complexity, because “greater product complexity gives rise to co-ordination challenges during PD\" (Novak and Eppinger, 2001). Specifically, the mirror hypothesis featured in work by Sosa et al. (2004) posits that organizational structures tend to mirror product structures in terms of their size and interdependencies. Their empirical results show that the interactions among the components affect the number of organizational interdependencies during PD. As a consequence, product structures with complex interactions should be associated with a PD/SC interface with complex interactions. Sosa et al.'s (2004) product structure characterizations are based on highly elaborate design structure matrices, but Olhager (2003) provides a conceptualization of product complexity that helps to relate it to organizational structure in a practical way. In his work, product complexity is defined in terms of breadth and depth of the product's structure. Breadth refers to the number of physical components associated with the product, while depth reflects the number of interactions within the product. With respect to directionality of the effect, it is expected that higher product complexity amplifies the information processing requirements (Stock and Tatikonda, 2004), thus elevating the aggregate intensity and affecting individual connections proportionally. In other words, sub-process connections with low information processing requirements are less affected by product complexity than connections with high information processing requirements. Consequently, the pattern variance should increase with higher product complexity. To examine the interaction between DC configurations and product complexity, the following hypotheses are tested: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H-3: There is a difference in the product complexity across the DC groups, in termsof ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a:the numberof components in the product,such that a greater number of components corresponds with (i) higher aggregate intensity and (ii) greaterpatternvariance ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b: the degree of interactions among components of the product, such that a higher degree of interactions corresponds with (i） higher aggregate intensity and (i)greaterpatternvariance. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Closely related to product complexity as a contextual factor that “adds to the difficulty of coordinating PD is newness” (Novak and Eppinger, 2001). Ernst (2002) suggests product newness is an important contextual variable that affects development efforts, because “one cannot disregard the possibility that [it] exercises some influence on the organization and management\" of the project. In newer products, the interdependencies within the product are not well understood (Novak and Eppinger, 2001). Consequently, additional expertise and information need to be exchanged across sub-process interfaces to facilitate the identification and understanding of interdependencies (Stock and Tatikonda, 2004). Thus, newness must have an impact on the implementation of DC sub-process connections. Because newness is also a question of “new to whom\" (Garcia and Calantone, 2002), it can have different degrees of impact on each of the multiple DC sub-processes. For example, established interfaces should remain relatively unaffected, whereas the effect of newness on non-routine interfaces should be stronger. Accordingly, different degrees of newness should interact with DC configurations and the following hypothesis is formulated: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "H-4:There is a difference in newness across the DC groups, such that greater newness corresponds with (i） higher aggregate intensity and (i) greater patternvariance. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Two important decisions during product development that represent a shared concern with SC are the positioning of the decoupling point (also referred to as the order penetration point) and the choice on component sourcing strategy (Krishnan and Ulrich, 2001). The principal strategic intent behind positioning of the decoupling point is to partition the SC into a section that is forecast-driven and another that is customer-driven and thereby determine the product's delivery strategy (Christopher and Towill, 2001; Olhager, 2003). The spectrum of choices for the product delivery strategy (PDS) ranges from engineered-to-order (ETO) SC's, which are fully customer-driven, to made-to-forecast (MTF) SC's, which are fully forecast-driven. Positioning the decoupling point between the extremes, such that forecast-driven sections are married with customer-driven sections, creates made-to-order (MTO) or assemble-to-order (ATO) delivery strategies that are able to cope with highly volatile demand (Olhager, 2003). In accordance with Christopher (2000), PDS's that are able to respond rapidly to changes in demand, both in terms of volume and variety, can be defined as agile. In turn, agility has significant implications for the emphasis on implementation of practices that relate to the PD/SC interface. Specifically, Narasimhan et al.'s (2006) empirical study reports that the emphasis on customer orientation, supplier partnerships and integrated product design under agile paradigms is consistent and higher than under other paradigms. Correspondingly, AlZu'bi and Tsinopolous (2012) find that suppliers and lead users can benefit variety. Consequently, it is expected that higher agility of the PDS corresponds with higher aggregate intensity and lower pattern variance of DC connections. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The principal choice for sourcing and procurement of components is to ‘make’(insource) or ‘buy'(outsource). Similar to product newness and product complexity, it can be expected that a decision to predominantly outsource components, will raise the difficulty of coordinating the work of PD (Novak and Eppinger, 2001). Correspondingly,it can be expected that the decision to outsource components will elevate the need to coordinate across DC sub-process interfaces. Moreover, make or buy decisions will shift the loci of information processing requirements between PD/SC sub-process connections. For example, interdependencies between the product design sub-process and the production sub-process in a project where components are predominantly insourced, will shift to suppliers in a project where components are predominantly outsourced. In turn, increasing the emphasis on connections with supplier while decreasing the emphasis on connections with internal SC processes will lead to increased DC pattern variance. Consequently, the following hypotheses are tested to examine the contextual impact of SC strategies: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "H-5:There is a difference in SC strategies across the DC groups,in terms of a:the agility of the product delivery strategy, such that higher agility corresponds with (i) higher aggregate intensity and (i) lower pattern variance. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b: the predominant sourcing strategy for components, such that predominant outsourcing of components corresponds with (i） higher aggregateintensityand(i)greaterpatternvariance. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4. DC groups and NPI performance ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The final hypotheses focus on the relationship between DC groups and NPI performance. Extant research has provided evidence for a significant relationship between PD/SC connections and performance. For example, Srivastava et al. (1999) propose that connecting PD and SC sub-processes is essential for realizing their potential to contribute to financial performance. Their work recommends to measure the performance impact of the PD/SC interface via the properties of cash flows that are associated with new products. There is also recent evidence in empirical work that connects the PD/SC interface with NPI project performance. Koufteros et al. (2005) report that firm-level connections with customers and suppliers, as well as internal involvement between product design, process design and manufacturing positively correlate with project profitability. Zacharia and Mentzer (2007) find that intrafirm logistics involvement with PD is positively associated with PD project performance, in terms of time-to-market, productivity and overall profitability. Likewise, Flynn et al. (2010) confirm that higher pattern strength is strongly related to performance. It is therefore likely that the configuration of the full range of DC sub-process connections exercises a direct influence on NPI performance and the following hypothesis is tested: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "H-6: There is a difference in NPI performance across DC groups, such that increasing aggregateintensitycorrespondswithimprovedperformance. ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition to a direct relationship between PD/SC connections and NPI performance, preceding research suggests the presence of contingency effects (Koufteros et al., 2005). The tests for hypotheses 1- 5 promise an understanding of which contextual factors play a role in the formation of each DC configuration. In other words, they afford the identification of a distinct contextual terrain for each DC configuration. However, the results from these tests will not indicate which level of a contextual factor is consistent with a particular DC configuration. For example, a result that confirms an interaction between DC configurations and agility of the PDS does not reveal whether low or high agility present a better match. More generally, it can be expected that consistency between a DC configuration and the level of contextual variables will benefit NPI performance and test the following hypothesis: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "H-7: Consistency (fit) between DC configurations and contextual factors will improveNPIperformance. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. Research methods ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1.Measurements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The intensities for the each of the 50 DC sub-process connections were reported by the respondents. For this purpose, each respondent waspresented witha $5\\times10$ matrix, corresponding to the 5 subprocesses in the PD domain and the 10 sub-processes in the SC and external (customers/suppliers) domain. The respondents were prompted to enter values between 0 and 5 intensity in each cell, with 0 corresponding to no intensity and 5 corresponding to highest intensity. To reflect the conceptual definition for connection intensity, the scale was anchored by 'no collaborative activity', corresponding to an entry of O, and increasing degrees of collaboration, corresponding to entries between 1 and 5. Following Kahn and Mentzer's, (1996, 1998) empirical work, the anchor for the highest degree of collaboration was described as aiming for the achievement of collective goals, mutual understanding, informally working together, as well as sharing ideas, information and resources. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Following, Fine's (1998) conceptualization, as well as recent empirical work by Nadkarni and Narayanan (2007), industry clock-speed was determined via the rate of new product and new process introductions in the respective industry category. New product and new process incidence rates were extracted from the latest National Science Foundation's (NSF: www.nsf.gov/statistics, 2010) statistics on business innovation. NSF incidence rates range from 0 to 1 and report the fraction of companies in each industry that introduced new products or process innovations in the surveyed period, respectively. Appendix B reports summary statistics for product and process incidence rates used in this study. Industry membership for each observation was determined via NAICS (North American Industry Classification System） codes provided by respondents. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "According to Garcia and Calantone (2002), newness can be measured via continuous or categorical variables. In this study, newness is measured as a categorical variable via discontinuities to the PD domain and SC domain. New product introduction (NPI) content - the set of tasks associated with a specific NPI project - was classified as “new\", when it was reported as “new\" to at least one of the two domains or as “\"known\"otherwise. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Product complexity measures for the number of product components were based on number of parts in the bill of materials and the degree of interactions among components was based on a product architecture typology. For product complexity measures based on numbers of components respondents reported the total number of parts in the bill of materials (BOM) of the new product. For the ensuing analyses, the sample was partitioned at the median (1oo parts) into complex and non-complex products. Fixson's (2005) product architecture maps and terminology were adopted to capture the degree of interactions among product components. Accordingly, respondents were exposed to product architecture maps to identify their new product's architecture as either integral-complex, integral-fragmented, integral consolidated or modular-like. Because integral-complex and integral-fragmented products exhibit a high component-to-function ratio, they reflect a high degree of interaction among the product's components (Fixson, 2005). Consequently, integral-complex and integral-fragmented products were categorized as high-complexity architectures. Conversely, integral-consolidated and modular-like products, which exhibit a low componentto-function ratio. were classified as low-complexitv architectures. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Similarly, supply chain strategies were extracted via categorical variables. First, respondents were asked to categorize the product delivery strategy (PDS) via the position of the decoupling point as ETO, MTO, ATO, MTS or MTF, using descriptive anchors that were extracted from Olhager (2003). Because SC's that are implemented as MTO or ATO are able to respond rapidly to changes in demand, both in terms of volume and variety, they were classified as high agility PDS. Conversely, supply chains that were implemented in practice as ETO, MTS or MTF are limited in the degree of product variety (MTS/MTF) or delivery speed (ETO) and thus I categorize them as low agility PDS. Similarly, the predominant sourcing strategy for components was measured with descriptive items that classify the component sourcing strategy as either predominantly‘insourced’ or predominantly‘outsourced'. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study, NPI performance is measured as a dichotomous indicator, anchored in the accomplishment of financial goals. This work acknowledges that the relationship of NPI practices with financial results is mediated by a number of non-financial outcomes (Brown and Eisenhardt, 1995; Ernst, 2002; Koufteros et al.， 2005). The most fundamental goal associated with the introduction of a new product, however, is to quickly recover the investment and to generate returns (Wheelwright and Clark, 1992; Kerzner, 2001; Ernst, 2002; Ulrich and Eppinger, 2011). Specifically, in PD practice it is common to evaluate the effectiveness of NPIs relative to the investment and firm-specific return targets in a post launch review, which typically occurs 12-18 months after launch, when the business model is ramped-up to scale (Kerzner, 2001; Research and Technology Executive Council: www. rtec.executiveboard.com; Cooper, 2005). The indicator applied in this study, NPI effectiveness, therefore captures whether the returns from the new product between the point of launch and the post launch review have met/exceeded the expected returns or not. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2.Data ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A survey design was used to collect the data for this research. Each observation corresponds to one NPI project. The final survey design was based on a careful review of prior empirical literature with a PD/SC concern, informal exchanges with experienced practitioners in the area of new product introduction and a pilot test of an initial survey, which included a group of ten members of a Technology Council (see Appendix C for a summary description of the Technology Council) from a diversified Fortune $1000\\ \\mathrm{firm}$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Participants were contacted and recruited from personal professional networks, through the membership of a large U.s - based supply chain management (SCM) association, through the network of a market intelligence firm and through professional networking services (PNS) (Wang et al., 2014). In the sampling process used by the market intelligence firm and SCM association individuals were selected from their databases based on their rank and key areas of responsibility. Specifically, informants were requested to have a rank (C-level, President/VP, Director, Manager) that provides sufficient range of knowledge and whose responsibilities relate to product development and supply chain management. Similarly, high-ranked individuals were selected from PNS, whose professional profile indicated that they had recently been involved in either new product development or new product introduction and who had responsibilities that related to the supply chain for new products. The data collection process commenced in 2012 and a total of 3576 individuals were contacted as potential respondents, primarily via email and phone, informing them about the study's objectives and contributions. In the invitation to the survey, potential participants were asked to report on products that were launched recently. Potential respondents were also informed that the study aims for a balance between effective and ineffective new product introductions, and thereby encouraged them not to select only their best PD projects. 550 individuals indicated an initial interest in participating, resulting in an initial response rate of $15.4\\%$ whichis comparable to other studies with similar pools of respondents (Koufteros et al., 2005; Flynn et al., 2010). A link to an electronic survey was sent to each of 550 initial respondents. Follow-up correspondence via telephone and email was used to improve response rate, data completeness (Frohlich, 2002) and to identify reasons for nonresponse (Swink et al., 2006). After a detailed review of the survey, a number of initial respondents indicated that they were prohibited from participating either because of insufficient data and records about their NPI projects or because of lack of time and resources. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The data collection process concluded in 2013 and the final data set includes 124 observations, for which most of the respondents reported that because of the cross-functional nature and depth of our questions, they had to first collect the project data by accessing project records or hold meetings with project team members. The final fraction of useable responses $(3.5\\%)$ is low, but comparable with PD practice surveys of similar complexity and length (Griffin, 1997; Markham and Lee, 2013). The use of individuals as primary informants raises concerns about single-response bias (Ernst, 2002). However, Cooper and Kleinschmidt (1995) note that “the use of single informant is valid [in a PD context], when the respondents have unique insights\". In addition, the fact that most, if not all responses, are consolidated from project records or based on input from multiple project team members should mitigate the problems associated with single informants. Finally, the relatively small fraction of final observations relative to the sample population highlights the trade-offs of following a high resolution approach as suggested by Simon (1984). On one hand, it can be difficult to collect and aggregate high depth and breadth data. On the other hand, high resolution observations can provide new insights and greater detail on the phenomena under study. Demographic information collected includes firm level characteristics, such as number of employees, annual revenue and project level characteristics. The majority of firms associated with the observations of this study can be classified as large size enterprises [Based on OECD criteria for firm size classification], because they had more than 500 employees $\\left(62.1\\%\\right)$ and revenues above $\\mathbb{S}50\\,\\mathrm{M}$ per annum $(56.5\\%)$ .Firms with 100-500 employees $(33.1\\%)$ and $^{\\mathbb{S}10-50\\mathrm{~M~}}$ in annual revenue $(26.6\\%)$ were less represented. Small size enterprises with less than 1o0 employees $(4.8\\%)$ and less than $\\mathbb{S}10\\,\\mathbb{M}$ annual revenue $(16.9\\%)$ ）accounted for the lowest fraction in the sample. To assess potential bias between late and early responses, the distribution of annual revenues and number of employees was compared (Flynn et al., 201o), showing no significant differences (Chi-square $=3.125\\$ ， ${\\tt p}\\,{=}\\,0.210$ for annual revenue and Chisquare $=\\!1.030$ ${\\tt p}\\,{=}\\,0.597$ for number of employees). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/60b4ed26c118cfbb36013910cdd5c51e1c02077cae19d677655e1d06944264f5.jpg",
+        "img_caption": [
+            "Fig. 2. Heat maps of average sub-process to sub-process connection intensities for DC groups 1-4. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The majority of the new products in the sample were launched after 2011, $75\\%$ were launched after 2009, and $90\\%$ werelaunchedafter 2007, which satisfied the requirement for observations from recent NPI's. The average PD project duration was 18.20 months (Range: 2-84 months; Std. Dev. $=15.90\\$ months). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Among the 124 observations presented in this paper are NPI projects for new toys, consumer electronics, medical devices, automotive products, micro-electronics and industrial machinery. A chisquare goodness-of-fit test based on 2 and 3-digit NAICS codes was performed to compare the sample population with the final set of observations. The overall test indicated that the sampling pool population is not significantly different from the distribution of the final responses(Chi-square $=17.129\\$ $\\mathrm{DF}\\!=\\!24$ ${\\tt p}\\!=\\!0.807)$ .A detailed comparison of estimated and actual fractions of industries is presented in Appendix A. This detailed characterization of responses is included to enable integration of this work with future research on the DC. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5. Analyses and results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The analytical approach is divided into three stages: (i) identification of DC groups, (ii) profiling of their configurations and (ii) tests of contextual and performance impact. Hierarchical cluster analysis, graphical representation through heat maps, ANOVA and MANOVA are used for identification and profiling. ANOVA and contingency tables (crosstab analysis) are employed to examine the interaction between DC groups and contextual factors (McKone-Sweet and Lee, 2009). Finally, binary logistic regression modelling is used to quantify the impact of DC configurations and their interaction with context on NPI performance. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1. Identification of DC groups ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Using the 50 connection intensities across sub-process interfaces $\\langle10\\times5$ ，see Table 1), hierarchical cluster analysis (using Ward's agglomeration algorithm and Euklidean-distance as a similarity measure）was employed to identify distinct configurations within the observations. For the determination of the final number of clusters, two criteria described in Hair and Black were used (Hair and black, 2006): First, the stopping rule was based on the percent change in heterogeneity between clustering steps (see also Flynn et al., 2010). Second, a solution with an interpretable number and size of clusters was sought. Past empirical work has used a cluster size of $\\mathrm{N}/30$ as guidance (McKone-Sweet and Lee, 2009). The latter criterion suggests solutions between 3 and 5 clusters for a set of 124 observations. The five cluster solution produced an uneven distribution of size and the three cluster solution is associated with a significant increase in heterogeneity [Joining of 4 clusters to form 3, changed heterogeneity by $4.8\\%$ the prior two steps changed heterogeneity by $2.8\\%$ and $2.5\\%$ ,respectively]. The four cluster solution is not associated with a notable increase in heterogeneity, it produces a balanced distribution of size, and it thus best satisfied the criteria for the determination of the final number of clusters. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2. Profiling of the DC groups ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To profile the DC groups, a multilayered approach is used that examines connection intensities at three levels: Using the full range of 50 sub-process connections, intensities are examined (1) at the subprocesses to sub-process level (e.g. product design to production), (2) the sub-process to domain level (e.g. production to all five interfacing PD sub-processes) and (3) at the aggregate, domain to domain level (all PD sub-processes to all SC sub-processes). Based on DC group membership, four heat maps (Fig. 2) were constructed showing the average connection intensity for each pair of sub-processes. The heat maps are employed for visual exams at all three levels of analysis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In addition, contrasts between connection intensities at the subprocess to domain level and the aggregate level were examined, using MANOVA and ANOVA, respectively. For comparisons of sub-process to domain intensities, the 10 (for each PD interface) or 5 (for each SC interface) connections that terminate in the same sub-process were averaged. To facilitate ensuing hypotheses testing, aggregate intensity and pattern variance were computed and contrasted across DC groups, using ANOVA. For the first parameter of DC configurations, aggregate intensity, the total intensity across all 50 connections was computed and standardized. The variance among the 50 connection intensities of each observation, was computed to determine the other key DC implementation parameter, pattern variance. An aggregate-level examination of the heat maps suggests several important characteristics of each DC group. For example, DC group 2 has consistently low connection intensities and DC group 4 has consistently high connection intensities. The heat maps also suggest a difference between group 1 and 3 at the aggregate-level. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0fdace4fcc2f3dbb91dfd08af90b9babaa432058c76a629bc2c33179f49f359a.jpg",
+        "table_caption": [
+            "Table2 Results of pairwise comparisons for aggregate intensities and pattern variance between groups1-4. "
+        ],
+        "table_footnote": [
+            "Notes: Mean Aggregate Intensity: DC Group $1=-0.142$ ；DC Group $2\\,{=}\\,-0.989$ ;DC Group $3\\!=\\!0.195_{\\!}$ DC Group $4\\!=\\!1.662$ Mean Pattern Variance: DC Group $1\\,{=}\\,2.914$ ; DC Group $2\\!=\\!1.531$ ; DC Group $3\\!=\\!1.705$ ;DC Group $4\\,{=}\\,0.420$ Cells report statistical significance in parentheses; Kruskal-Wallis significance levels are reported forvariance. Model Test-Aggregate: $\\mathrm{F}\\!=\\!143.583$ ;SIG. $=0.000$ Levene'sTest-Aggregate: $\\mathbf{F}\\!=\\!1.060$ SIG. $=0.369$ Model Test-Variance: $\\operatorname{F}\\!=\\!29.333$ ；SIG. $=0.000$ Levene'sTest-Variance: $\\mathbf{F}\\!=\\!7.045$ SIG. $=0.000$ \\*Significant at $\\mathtt{p}<0.05$ $\\ast\\ast$ Significant at $\\mathsf{p}<0.01$ "
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "These observations are supported by an ANOVA and pairwise comparisons of aggregate-level connection intensities of DC groups (Table 2). Table 2 shows that DC group 2 exhibits significantly lower aggregate-level intensity than groups 1, 3 and 4. Furthermore, the results confirm that group 4 exhibits significantly higher aggregate intensity than groups 1, 2 and 3. Last, the results confirm that group 3 exhibits significantly higher aggregate connection intensity than group 1. In sum, the aggregate-level intensity increases from group 2, over group 1, followed by group 3 towards group 4. Relative to the complete sample, DC groups 2 and 1 have below average aggregate-level connection intensity, whilst DC groups 3 and 4 have above average aggregate-level connection intensity. With respect to pattern variance of the DC configurations, Table 2 shows that DC group 4 exhibits significantly lower variance than groups 1, 2 and 3. Furthermore, the results confirm that group 1 exhibits significantly higher variance than groups 2, 3 and 4. Last, the results indicate that DC group 3 exhibits higher variance than DC group 2, but the difference is not significant (Table 2). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As the resolution of the exam is increased, average connection intensities for sub-process to domain interfaces are compared. A MANOVA including all four DC groups reveals that group 4 has significantly higher connection intensities in all 15 sub-process to domain interfaces than groups 1-3 and group 2 has significantly lower communication intensities in all sub-process to domain interfaces than groups 1, 3 and 4. In other words, the average connection intensity at the sub-process to domain level is consistently the highest in DC group 4 and consistently the lowest in DC group 2. However, further visual examination of the heat maps, followed by MANOVA, indicate interesting nuances in the connection intensities at the sub-process to domain level for DC groups 1 and 3. For that reason, the presentation and discussion of detailed results focuses on the contrast between DC groupsl and3. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b6cf3500c135f6dabe30aeff3ba871bca7bab7dffd9a54391fc827effdf2274.jpg",
+        "table_caption": [
+            "Table3 Results of pairwise comparisons for sub-process to domain communication intensities of groups1and3. "
+        ],
+        "table_footnote": [
+            "Notes: \\*(1) Levene's test indicated unequal variances across groups; supplemental Kruskal-Wallis tests areperformed. Model Test: Pillai's Trace: 1.755; F: 22.435; SIG.: 0.000. ± Significant at $\\mathsf{p}<0.1$ \\* Significant at $\\mathtt{p}<0.05$ \\*\\* Signifiant at $\\mathsf{p}<0.01$ "
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A visual survey of heat maps indicates that there is high variance in connection intensities in DC group 1. By contrast, the intensities appear to be more constant within DC group 3. For that reason, most of the contrast between DC group 1 and DC group 3 is driven by the variation within DC group 1 (See Fig. 2). Results from MANOVA and pairwise comparisons of average connection intensities at the sub-process to domain level confirm significant contrasts between DC groups 1 and 3 (Table 3). For example, in DC group 1, there is lower emphasis on connections that terminate in order processing, inbound logistics, noncritical suppliers and outbound logistics, relative to DC group 3. In addition, DC group 1 allocates higher intensity to connections that terminate in procurement, critical suppliers and production. Other cases, where the contrast appears to be driven by allocation of higher intensities in DC group 3 include PD connections that terminate in production planning and sourcing, as well as SC connections that terminate in product design and testing& protoyping. In addition, the average intensity for the connections that terminate in sub-process process design is higher for DC group 3, but at the $\\mathbb{P}<0.1$ level.All other differences between group 1 and group 3 sub-processes are not significant at the $\\mathbb{P}<0.1$ level. Finally, a detailed visual exam of the heat map for DC group 1 suggests focused emphasis on selected connections with the sub-processes product design,procurement and sourcing.For example the average intensityfor the connections between sourcing and procurement, as well as sourcing and critical suppliers is high, while all other connections with sourcing exhibit low intensity. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.3. Contextual analysis of the DC groups ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Similar to the previous section on profiling, the presentation of detailed results focuses on findings that indicate significant differences between DC groups. Results that do not indicate significant differences are not presented in detail, but they are included in the discussion. For example, crosstab analyses for the tests associated with H2.b, H3.a and H5.b generate a Chi-square statistics of 10.079, 4.377 and 1.416 as well as a significance level of 0.121, 0.233 and 0.702, respectively. Consequently, H2.b, H3.a and H5.b are not supported and there is no evidence for a difference between DC groups in terms of number of firm employees, component sourcing strategy or the number of components in the product. Consequently, extensions (i) and (ii) pertaining to directionality of the effects in measures of aggregate intensity and pattern variance of the DC configurations are not validated for H2.b, H3.a and H5.b. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.3.1. Industry clock-speed ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As described in the discussion of measurements, product and process incidence rates are extracted from the latest (201o) NSF statistics to derive the industry clock-speed for each observation. Descriptive statistics for product and process incidence rates in the observations are shown in Appendix B. Principal component analysis with both indicators extracted $97.77\\%$ of the variance and generated a clock-speed item with high reliability (Cronbach's alpha $=0.950^{\\circ}\\mathrm{,}$ .The test for H1 is based on ANOVA for the clock-speed item across the four DC groups. Table 4 indicates that DC group 1 has significantly higher clock-speed observations than groups 2-4. Other differences are not significant. Based on the results in Table 4, there is support for a contrast in industry clock-speed across DC groups, as expected in hypothesis 1. With respect to directionality of the effect, Table 2 shows that DC group 1 exhibits the highest pattern variance, but not the highest aggregate intensity. Consequently, only extension (i) of H1 is supported. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.3.2.Firm size ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Tests for H2.a and H2.b are based on crosstab analysis. Tests for H2.b did not reveal any notable difference across DC groups in number of employees. Thus, H2.b is not supported. H2.a, by contrast, is supported. Based on a comparison of all four groups (Table 5), as well as subsequently comparing groups 2 and 3 separately, results indicate that DC group 1 has a higher number of observations than expected of firms with revenue above $\\mathbb{S}50\\,\\mathrm{M}$ per annum. In addition, DC group 4 is associated with a higher number of firms with less than $\\mathbb{S}10\\,\\mathbb{M}$ per annum. Comparing the subset of groups 2 and 3 $\\left(\\mathrm{N}\\rightleftharpoons75\\right)$ separatelydid not reveal a significant difference in terms of annual firm revenue (Pearson Chi-square $=1.312$ ;SIG:0.519).The contrast between DC group 1 and 4, together with the results in Table 2 provides support for both extensions of H2.a that greater annual revenue is associated with (ii) greater pattern variance and (i) lower aggregate intensity. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.3.3. Product related factors ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Tests for H3 and H4 are based on crosstab analysis. Tests for H3.a did not reveal any notable difference across DC groups in product complexity measured via the number of parts. Thus, H3.a and its extensions are not supported. There is, however, a significant difference between groups across DC groups in product complexity, measured via the degree of interdependency in the product architecture. Table 5 and subsequent tests of the subset of groups 2 and 3 $\\left(\\mathrm{N}\\rightleftharpoons75\\right)$ separately suggest that the contrast between expected and observed counts is driven by two imbalances. Group 1 has a higher number of highcomplexity product architecture observations than expected. Group 4 has a higher number of low-complexity product architecture observations. Examining results from Table 2 together with this contrast between DC group 1 and group 4 indicates that high-complexity product architectures are associated with greater pattern variance, but not with higher aggregate intensity. Thus, only extension (ii) of H3.b is supported. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Tests for H4 reveal a difference between DC groups in newness of NPI content, although at the $\\mathsf{p}<0.1$ significance level. Subsequent comparison of subsets does not result in any improvement in the level of significance of the contrasts. Table 5 indicates that DC groups 1 and 4 have more observations with known NPI content than expected. Conversely, DC groups 2 and 3 have more observations with new NPI content than expected (Table 5). Thus, greater newness is not associated with higher aggregate intensity or pattern variance and there is no evidence to support extension (i) or (ii) of H4. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.3.4. Supply chain strategies ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Tests for H5.a and H5.b are also based on crosstab analysis. H5 is partially supported. Tests for H5.b do not indicate significant differences across DC groups in terms of the component sourcing strategy (Pearson Chi-square $=1.416$ ;SIG:0.702). Consequently, there is no support for H5.b and its extensions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "H5.a is supported by the data. Based on a comparison of all four groups (Table 5) as well as subsequently comparing groups 2 and 3 separately, results show that DC groups 1 and 2 have a higher number of projects that implement low agility PDS than expected. Conversely, groups 3 and 4 have a higher number of projects that implement high agility PDS than expected. Together with the results in Table 2, this outcome provides support for H5.a predicting an association between higher agility of the PDS and higher aggregate intensity, as well as lower pattern variance. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.4. DC groups and performance ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "H6 is supported by the data. Based on a comparison of all four groups, as well as subsequently comparing groups 3 and 4 separately (Table 5), tests indicate that groups 2 and 3 have a higher number of projects that produced ineffective NPl's than expected. Conversely, group 4 has a higher number of projects that produced effective NPI's than expected. In order to quantify the effect of DC configurations on NPI effectiveness, binary logistic regression modelling was performed. The model tested was ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ce1e120c01b86fd78276162e18df6eab651af9a673a575eb7c65cc92504d872.jpg",
+        "table_caption": [
+            "Table4 Results of pairwise comparisons of industry clock-speed for DC groups 1-4. "
+        ],
+        "table_footnote": [
+            "Notes: Cells report differences between means and statistical significance in parentheses. ModelTest: $\\mathbf{F}\\!=\\!3.153$ SIG. $=0.017$ Levene'sTest: $\\mathrm{F}\\!=\\!1.385$ SIG. $=0.251$ \\*Significant at $\\mathtt{p}<0.05$ \\*\\*Significant at $\\mathsf{p}<0.01$ "
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5ab0d3e3b883752695f425cedfc45850db8ca4e64d3ce6553d74a18fac4e7ce.jpg",
+        "table_caption": [
+            "Table5 Summary of results of crosstab analyses for groups 1-4 and contextual factors. "
+        ],
+        "table_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "with DC group 1, 2 and 3 coded as binary variables, where 1 indicates membership in the group and 0 indicates membership in another group. The value of parameter $\\upbeta_{\\mathrm{i}}$ translates one unit increase of the independent variable in percent change in odds to meet or exceed the NPV target as $\\mathrm{e^{\\betai}}\\!-1$ (Hair et al., 2010). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Based on the parameter estimates shown in Table 6, membership in DC group 4 raises the probability of NPI effectiveness by $71\\%$ (see Appendix D for the quantitative interpretation of results from Table 6), whilst membership in DC group 3 and DC group 2 significantly decreases the probability of NPI effectiveness, relative to the complete sample of observations. Membership in DC group 1 has no significant effect on NPI effectiveness. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to examine the contingency effect of context on the relationship between DC groups and NPI effectiveness, small sample tests were performed for each DC group. The test for H7 was based on binary logistic regression modelling, using the observations associated with the group in question. The exam concentrated on the contextual variables that were identified as significant in the tests for H1-5. Accordingly the model used for DC group 2 (Model 2) was ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{r l}&{\\!\\!\\!n\\left[(N P I\\ e f\\!f\\!e c t i\\nu e n e s s)/(1-N P I\\ e f\\!f\\!e c t i\\nu e n e s s)\\right]}\\\\ &{\\quad\\quad\\quad\\quad\\quad\\quad=\\beta_{0}+\\beta_{1}^{\\ast}C l o c k-s p e e d+\\beta_{2}^{\\ast}P D S\\ a g i l i t y}\\\\ &{\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad\\quad+\\beta_{3}^{\\ast}N e w n e s s.}\\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The model used for DC group 3 (Model 3) was ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{r l}{\\allowdisplaybreaks\\mathrm{~7~}}&{}\\\\ &{\\mathrm{~7~}[(N P I\\mathrm{~}e f f e c t i\\nu e n e s s)/(1\\mathrm{~-~}N P I\\mathrm{~}e f f e c t i\\nu e n e s s)]}\\\\ &{}&{=\\beta_{0}+\\beta_{1}\\ast C l o c k-s p e e d+\\beta_{2}\\ast P D S\\mathrm{~}a g i l i t y}\\\\ &{}&{\\quad\\mathrm{~+~}\\beta_{3}\\ast N e w n e s s,}\\\\ &{}&{\\quad\\mathrm{~+~}\\beta_{4}\\ast P r o d u c t\\mathrm{~}A r c h i t e c t u r e\\mathrm{~}c o m p l e x i t y.}\\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/166cbb5d4dd52d77d7eb74eae64b44e060a09409f520b8756cb251a787168a24.jpg",
+        "table_caption": [
+            "Table6 Results of binary logistic regression of DC group membership on NPI effectiveness. "
+        ],
+        "table_footnote": [
+            "Notes: Model Test: ChiSquare $(-2\\mathrm{LL})\\phantom{x x x x}=163.830$ ；SIG $<0.001$ ;Nagelkerke Pseudo RSquare $=\\!0.083$ ；Specificity $=\\!70.0\\%$ ；Sensitivity $=48.4\\%$ Overall Classification $=58.9\\%$ \\* Significant at $\\mathtt{p}<0.05$ (SIG. level shown in parentheses). "
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As with earlier results, the presentation focuses on the findings that indicate a significant contingency effect on the relationship between DC groups and NPI effectiveness. Results that do not indicate significant effects are not presented in detail, but they are included in the discussion. For example, logistic binary regression for the tests associated with H7 do not indicate a significant impact of context for DC group 1 and 4, respectively. However, the tests for the impact of clockspeed, PDS agility, product architecture complexity and newness on NPI effectiveness in DC group 3 reveal that the effect of PDS agility is significant (Table 7). In addition, testing the impact of industry clockspeed, PDS agility and newness on NPI effectiveness in DC group 2 shows that the effect of industry clock-speed is significant (Table 7). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As a consequence, H7 is supported for DC group 3 and PDS agility, as well as DC group 2 and industry clock-speed. The parameter estimates can be interpreted such that when the DC configuration of group 3 is matched with a low PDS agility, the probability of NPI effectiveness is significantly higher (by $89\\%$ 0,when the DC configuration of group 3 is matched with a low agility PDs. Correspondingly, the probability of NPI effectiveness is significantly higher (by $48\\%_{,}$ , when the DC configuration of group 2 is matched with a low clock-speed industry, suggesting that combinations of low aggregate intensity and moderate pattern variance are a fit for low clock-speed environments (see Appendix D for the quantitative interpretation of results from Table 7). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6. Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table 8 combines and summarizes the results from profiling and hypotheses tests in the previous sections. The results allow for a comprehensive discussion and characterization of the four DC groups that were extracted from the data. In general, the findings complement recent work by Tsinopoulos and Mena (2015) by validating that there are four distinct configurations of sub-process connection intensities in our observations that interact differently with a number of contextual factors. The results also extend their work by confirming that three of the four DC configurations exhibit a direct or contingent association withNPI effectiveness. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ee4bbaa18fdec29b954c8b0854df320372f9f6c797634391fd680516757aca2.jpg",
+        "table_caption": [
+            "Table7 Results of binary logistic regression of contextual factors on NPI effectiveness in DC groups2and3. "
+        ],
+        "table_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/d4b7b82b438fff6981b2294fdb7752fc809af3695008f4cabe19c85280fda5f0.jpg",
+        "table_caption": [
+            "Table8 Summary of statistical results and characterization of DC groups. "
+        ],
+        "table_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "DC group 4 ('The Small and Nimble’) is characterized by the lowest pattern variance and the highest aggregate-level intensity of the four configurations. A reason for the consistently high intensity across the viable sub-process connections in DC group 4 may be that NPI's from DC group 4 are associated with a majority of small revenue, likely lessmature organizations,who focus most or all of their attention on their new products. One could argue that under resource and time constraints, allocating excessively high DC connection intensity can be detrimental to NPI performance. However, the configuration associated with DC group 4 has a direct, positive association with NPI effectiveness. A plausible inference from the results for DC group 4 is that small revenue, less-mature organizations with high agility PDSs interrelate with a comparably small number of nodes and are pre-conditioned for high intensity connections. People managing high agility SC processes are likely expected to collaborate closely, internally and externally, every day. For that reason, the DC's in this group should be efficient at maintaining high connection intensity and, thus, there might be no negative impact on productivity and timing with this configuration. In addition, time-to-market is likely not as critical in the low clock-speed environments associated with group 4. Accordingly, a logic that combines small firm size, the pre-conditioning for high intensity connections and low criticality of time-to-market in low clock-speed environments may serve as an explanation for why there is a direct, positive association between NPI effectiveness and DC group 4. The evidence further suggest that the performance impact is not contingent on a match with a specific contextual factor, because DC group 4 is already strongly aligned with its contextual terrain. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The configuration of DC group 2 (The Steady Innovators\") is characterized by a moderate pattern variance, albeit at the lowest aggregate-level intensity. Interestingly, this configuration is associated with a majority of observations that had to cope with new NPI content. A reason for the consistently low intensity in DC group 2 may be that broad routinization has occurred and the interfaces are clearly defined (Wheelwright and Clark, 1992), which is consistent with the finding that this configuration is better compatible with low clock-speed environments. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Above-average aggregate intensity in DC group 3 (The Innovative Planners') is consistent with a majority of observations facing new NPI content. In addition, it can be argued that because the content is new for the majority of observations in DC group 3, it makes sense to place emphasis on testing & prototyping, as well as on sourcing of components. Newness in NPIs is often associated with the integration of new component technology (Tatikonda and Stock, 2003) and, therefore, sourcing, as well as testing & protoyping can be crucial DC sub-processes. The findings further suggest that the configuration associated with DC group 3 is better compatible with a low agility PDS focusing on predictable demand (Christopher, 2000), which corresponds with its highest emphasis on production planning (see Table 3). DC group 3 is also a pertinent example for contingencies among the dimensions of the DC, suggesting that effectiveness of this configuration depends on simultaneously placing high emphasis on connections to product design, testing&protoyping, sourcing, as well as production planning (Table 8). This conjecture is consistent with findings by Kim (2013) who notes that the individual dimensions connecting PD and SC interact to affect performance. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The configuration of DC group 1 (The Large and Fast') is characterized by an aggregate intensity that is below average, as well as the greatest pattern variance. The first facet, low aggregate intensity, is consistent with recent findings by Bengtsson et al. (2013), who note that firm size is negatively correlated with cross-functional decision making. The latter facet suggests that DC group 1 is managed with a highly selective allocation of connection intensity at the sub-process level. This may be explained with a majority of observations that are associated with high clock-speed environments. In high clock-speed environments, time-to-market is a key performance factor and being selective with DC connections can help to conserve resources and time. Another possible explanation for this observation is that routinization of sub-process connections has advanced for some interfaces, which may be a consequence of this group's association with large revenue, likely more-mature organizations. The finding that DC group 1 is associated with large revenue firms and with high emphasis on connections with critical suppliers is consistent with results from an empirical study by Koufteros et al. (2007), who report that large size firms exhibit higher levels of supplier integration than small firms. In addition, the high emphasis on critical suppliers together with more complex architectures is in agreement with recent work by Ulki and Schmidt (2011) who posit that integral architectures are more likely when supplier relationships are cooperative. Finally, specific details in the configuration of DC group 1 suggest that it is not sufficiently aligned with its contextual terrain. For example,low emphasis on order processing, inbound and outbound logistics may not adequately support circumstances with more agile PDS and complex architectures. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Finally, some observations from a careful examination of the heat maps, reinforced with support from past research suggest that some areas of the DC are important in a more general sense. For example, the connection between procurement and sourcing (Schiele, 2010), as well as most connections with the launch& ramp-up sub-process (Bowersox et al.,1999; Calantone et al., 2005) seem to be vital, regardless of context and DC configuration. Although, sample size and DC group sizes constrain the ability to carry out robust statistical tests for these contrasts in this study. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "7. Implications, limitations and future research ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study provides a detailed examination of a full range of PD/SC sub-process connections, their interaction with a substantial set of contextual variables and the impact on performance of new product introductions. Its findings have several implications for managerial practice and research associated with the introduction of new products and the implementation of connections at the nexus of PD and SC. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "First and perhaps most importantly, it illustrates that purposeful management of the DC is a complex organizational tasks. In agreement with recent research by Gan and Grunow (2016), this study confirms that understanding the PD/SC interface requires a multi-level approach. Explicitly, this work has established that the PD/SC interface, consisting of multiple sub-process links, should be managed as an interrelated bundle and with careful consideration of its contextual terrain. For example, the tests provide evidence that even a configuration with consistently low connection intensity can be appropriate, when it is compatible with context (DC group 2). Moreover, the analysis of DC configurations has indicated that implementation of connections between PD and SC occurs with detailed attention to multiple sub-process interfaces. Again, the observations stipulate that being selective with the allocation of connection intensity can be beneficial, when the configuration matches the circumstances (DC group 3). However, results also suggest that selective allocation of connection intensity may not provide any benefits, when the configuration is not consistent with context (DC group 1). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Accordingly,managers concerned with the DC could use this work to support formal planning and diagnosis of NPI projects. Past research has reported that formal managerial processes, like stage-gate execution models (Cooper, 2005), produce superior outcomes to informal approaches for PD (Ernst, 2002). This study provides measurements for contextual variables that are applicable in a practical setting and therefore should allow DC managers to quickly assess the contextual terrain of their NPI projects. To that end, the detailed and practical characterizationof thePD/SCinterface andthecontextualvariables can benefit the organizing of team composition and distribution. For example, DC/NPI managers may decide to co-locate team members that are associated with one or more critical sub-process interfaces. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the findings from this work have a number of implications for theory about the PD/SC interface and its relationship with context and performance. Firstly, they offer empirical support for a PD/SC interface that consists of multiple sub-process connections, as conjectured by prior conceptual work (Srivastava et al., 1999; Croxton et al., 2003). Moreover, the PD/SC sub-processes used in this study and the measurements employed provide a practical instrument for future studies in this area and the work of NPI managers. Secondly, the results confirm that contextual variables other than those that reflect higher task uncertainty and information processing requirements (Tatikonda and Stock, 2003; Koufteros et al., 2005; Bengtsson et al., 2013) influence the connection intensities at the PD/SC interface and their relationship with performance. Specifically, this study provides evidence that contextual factors that reflect constraints on the NPI project (e.g. firm size and clock-speed) or affect different sub-process interfaces differently (e.g. PDS agility and newness) raise the need to be selective with the allocation of connection intensity to a PD/SC interface with multiple sub-process interfaces. Thirdly, the findings from this study suggest that classifying DC configurations by the dimensions aggregate intensity, into high and low, as well as pattern variance, into low, moderate and high, may provide a useful theoretical framework to determine fit between context and DC configurations. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The findings from this study also indicate several possibilities to extend this line of inquiry. For instance, the examination of contextual variables indicated that product architecture complexity, agility of the product delivery strategy, newness, firm revenue and industry clockspeed exercise an influence on the DC. Accordingly, multiple combinations of relevant contextual dimensions are possible. This should be investigated by further research. Nonetheless, it is envisaged that the practical characterization of measures will enable DC/NPI managers to reflect on which combinations of contextual permutations and DC configurations were and will be more effective than others. Further, in the examination of contextual variables, the results suggest no significant relationship between DC groups, product complexity in terms of number of components and the dominant sourcing strategy for components. Given the literature on the topics, this result is surprising and presents another potent avenue for further research. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "One of the limitations of a study with this level of resolution is the sample size: A greater sample size will enable higher resolution contrasts between the DC groups. Due to sample size, the empirical part is limited to statistical tests at the level 15 of sub-process to domain interfaces. Based on a desired minimum of 10 observations per variable for regression analyses or MANOVA, a sample of ideally 500 observations will allow for a detailed examination of contrasts at the level of the 50 sub-process to sub-process connections. It would therefore be important to continue to examine a multivariate PD/SC interface with increased sample size in the future.A larger number of observations would also benefit future work that tests the interaction among contextual variables. For example, a recent survey of the literature by Pashaei and Olhager (2015) suggests that product complexity and sourcing, as well as product architecture and product delivery strategy interact. In addition, work by Lau et al. (2011) suggests that product architecture can constrain innovativeness of the product to affect performance. However, this study does not theorize or test any interaction effects among contextual variables. It should be noted that recent trends in NPD practice show that cycle times have shortened and that the best PD projects derive more profits from newer products (Markham and Lee, 2013). Accordingly, a repeat of this study today would likely find higher fractions of new products and more observations with high clock-speed. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Another limitation of this analysis is the cross-sectional examination of a set of NPI projects. Future longitudinal research should examine how DC configurations evolve over time and aim to identify the causal mechanisms that drive the configurations and combinations found in this study. For example, how and why do the high-agility PDS, high intensity DC combination in group 4 or the high clock-speed, high variability DC combination in group 1 evolve? ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Last, the findings and literature related to interdependencies between PD and SC suggest that selected sub-process to sub-process connections or groups of connections may be critical, regardless of context (Petersen et al., 2005; Zacharia and Mentzer, 2007). Future research should aim to test this conjecture and identify from a full range of sub-processes the connections in the DC that are critical in a general sense. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/1dd0b6316b01281096a46c5d9c79c43bbaf2385f1bb0b99ad3ab361dd1522bbf.jpg",
+        "table_caption": [
+            "Appendix A. NAICS codes and actual fraction in responses versus estimated probability in sample "
+        ],
+        "table_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/9006813f6404d37d5447e46295f067fb30a345649bf154af5915c8caa8b46c5a.jpg",
+        "table_caption": [
+            "Appendix B. Summary statistics of product and process incidence rates "
+        ],
+        "table_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Appendix C. Summary description of the technology council supporting the design of the survey instrument ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Members of the Technology Council included engineers, project managers, marketing and quality management people from the business segments Food and Beverage, Biopharmaceuticals, Petrochemical, Water Purification, Medical Devices and Defense Industry. 15 people were permanent members, approx. another 15 people supported the Council on an as-needed basis. The main purpose of the Technology Council was to oversee the NPI process across all lines of business and to improve effectiveness and freshness of the product line. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Appendix D. Interpretation of results from Tables 6 and 7 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The change in odds of NPI being effective from membership in DC group 4 is $\\mathbf{e}^{1.224}{-}1\\!=\\!2.40$ ; The change in probability of NPI effectiveness is $(2.40/(2.40+1))\\times100\\%\\,{=}\\,71\\%_{3}$ Correspondingly, the change in odds of NPI being effective from membership in DC group 3 is $\\mathrm{e}^{-1.511}{-}1\\,{=}\\,-0.78$ The change in probability of NPI effectiveness is $(-0.78/(-0.78\\!+\\!1))\\!\\times\\!100\\%\\:=-\\,353\\%$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The change in odds of NPI being effective from matching DC configuration of group 2 with low clock-speed is $\\mathrm{e}^{0.645}–1\\!=\\!0.91$ ; The change in probability of NPI effectiveness is $(0.91/(0.91\\,\\!+1))\\times100\\%\\,\\!=48\\%$ : Correspondingly, the change in odds of NPI being effective from matching DC configuration of group 3 with low PDS agility is $\\mathrm{e}^{2.172}–1\\!=\\!7.78$ ; The change in probability of NPI effectiveness is $(7.78/(7.78+1))\\times100\\%\\,{=}\\,89\\%$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Al-Zubi, Z.B.M., Tsinopoulos, C., 2012. Suppliers versus lead users: Examining their relative impact on product variety. J. Product. Innov. Manag. 29 (4), 667-680.   \nBengtsson, L, Lakemond, N., Dabhilkar, M, 2013. Exloiting supplier iovativenes through knowledge integration. Int. J. Technol. Manag. 61 (3/4), 237-253.   \nBissola, R., Imperatori, B., Colonel, R.T., 2014. Enhancing the creative performance of new product teams: an organizational configurational approach. J. Product. Innov. Manag. 31, 375-391.   \nBowersox, D.J., Stank, T.P., Daugherty, P.J., 1999. Lean launch: managing produt introduction risk through response-based logistics. J. Product. Innov. Manag. 16, 557-568.   \nBoyer, K, ozath, C.Memt, C. . Cnfigations in opration: an in area of study. J. Oper. Manag. 18 (2000), 601-604.   \nBresman, H., Zellmer-Bruhn, M., 2013. The structural context of team learning: effects of organizational and team structure on internal and external learning. Organ. Sci. 24 (4), 1120-1139.   \nBrown, S.L, Eisenhardt, K.M., 1995. Product development: past research, present findings, and future directions. Acad. Manag. Rev. 1995 20 (2), 343-378.   \nCalantone, R.J, Di Benedetto, A., Stank, T.P, 2005. Managing the supply chain implications of launch. (2005) The PDMA Handbook of New ProductDevelopment 2nd edition. John Wiley & Sons, New Jersey.   \nChristopher, M., 200o. The agile supply chain: competing in volatile markets. Ind. Mark. Manag. 29 (1), 37-44.   \nChristopher, M., Towill, D.R., 2001. An integrated model for the design of agile supply chains. Int. J. Phys. Distrib. Logist. Manag. (31:4), 235-246.   \nCooper, R.G., 2005. New products - what separates the winners from the losers and what drives success. The PDMA Handbook of New ProductDevelopment 2nd edition. John Wiley & Sons, New Jersey.   \nCooper, R.G., Kleinschmidt, E.J., 1995. Benchmarking the firm's critical success factors n new product development. J. Product. Innov. Manag. 12, 374-391.   \nCrawford, M., Di Benedetto, A., 2008. New products management. Mc Graw-Hill, New York, NY.   \nCroxton, K.L, Garcia, S.J., Lambert, D.M, Rogers, D.S, 2001. The supply chain management process. Int. J. Logist. Manag. 12 (2).   \nCroxton, K.L., 2003. The order fulfiment process. Int. J. Logist. Manag. 14 (Number 1), 2003.   \nDrazin, Robert, Van de Ven, Andrew, H., 1985. Alternative forms of fit in contingeny theory. Adm. Sci. Q. 30 (4), 514-539.   \nErnst, H., 2002. Success factors of new product development: a review of the mpirical literature. Int. J. Manag. Rev. 4 (1), 1-40.   \nFine, C., 1998. Clockspeed: winning Industry Control in the Age of Temporary Advantage. Perseus Books, New York, NY.   \nFixson, S., 2005. Product architecture assessment: a tool to link product, process and supply chain decisions. J. Oper. Manag. 23.   \nFlyn,Huha00Thpat f sulyhanntrat performance: a contingency and configuration approach. J. Oper. Manag. 28, 51.   \nForzladisi design, and supply chain design decisions. Part B. Coordinating approaches, tradeoffs, and future research directions. J. Oper. Manag. 23.   \nFrohlich, M.T., 2002. Techniques for improving response rates in OM survey research. J. Oper. Manag. 20 (1), 53-62.   \nGan, T.S., Gruw, M, 2016. Concurrent produt and supply chain dsin: a litrate review, an exploratory research framework and a process for modularity design. Int. J. Comput. Integr. Manuf. 29 (12), 1255-1271.   \nGarcia, R., Calantone, R., 2002. A critical look at technological inovation typology and innovativeness terminology: a literature review. J. Product. Innov. Manag. 19 (2002), 110-132.   \nGriffin, A., 1997. PDMA research on new product development practices: Updating trends and benchmarking best practices. Journal of product inovation management 14 (6), 429-458.   \nHansen, M.T., Mors, M.L., Lovas, B., 2005. Knowledge sharing in organizations: multiple networks, multiple phases. Acad. Manag. J. 48 (5), 776-793.   \nHair, J.F., Anderson, R.E., Babin, B.J., Black, W.C., 2010. Multivariate Data Analysis: A GlobalPR   \nHair, J., Black, W., 2006. Multivariate data analysis. Prentice Hall, NJ.   \nHilletofth, P, Eriksson, D., 2011. Coordinating new product develpment with suply chain management. Ind. Manag. Data Syst. 111 (2), 264-281.   \nHong, P., Doll, W.J, Revilla, E., Nahm, A.Y., 201. Kowledge sharing and strategic fit in integrated product development projects: an empirical study. Int. J. Prod. Econ. 132 (2), 186.   \nHult, G.T.M., Swan, K.S., 2003. A research agenda for the nexus of product development and supply chain management process. J. Product. Innov.Manag. 20 (5),33-336.   \nlansiti, M, Clark, KB., 1994. Intgration and dynamic capability: evidence from produt development in automobiles and mainframe computers. Ind. corp. change 3 (3), 557-605.   \nKahn, KB, Mentzer, JT, 1996. Logistics and intrdepartmental interaton Int. J. Phy. Distrib. Logist. Manag. 26 (8), 6-14.   \nKahn, KB., Mentzer, T.J., 1998. Marketing's integration with other departments. J. Bus. Res. 42, 53-62.   \nKerzner, H, 2001 Projct Management: A Systms Apprach to Plaing, chedul, and Controlling, John Wiley & Sons, Hoboken, NJ.   \nKim, DY  Relanship betwen supy chan ntrat and pefomc. . Manag. Res. 6 (1-2), 74-90.   \nKraljic, P., 1983. Purchasing must become supply management. Harv. Bus. Rev. 61 (5), 109-117.   \nKrishnan, V., Ulrich, K.T. 2001. Product development decisions: a review of the literature. Manag. Sci. 47 (1), 1-21.   \nKoufteros, X., Vonderembse, M., Jayaram, J., 2005. Internal and external integration for product development: the contingency effects of uncertainty, equivocality, and platform strategy. Decis. Sci. 36 (1), 97-133.   \nKoufteros, X.A., Cheng, T.C.E., Lai, K.H., 2007. Black-box and gray box supplier integration in product development: antecedents, consequences and the moderating role of firm size. J. Oper. Manag. 25 (4), 847-870.   \nLau, A.K, 2011. Supplier and customer involvement on new product performance: contextual factors and an empirical test frm manufacturer perspective Ind. Manag. Data Syst. 111 (6), 910-942.   \nLau, A.K, Yam, R., Tang, E, 2011. The impact of product modularity on new product performance: mediation by product inovativeness. J. Product. Inov. Manag. 28 (2), 270-284.   \nLawrence, P.R., Lorsch, J.W., 1967. Organization and Environment. Harvard University Press, Cambridge MA.   \nLe Dain, M.A., Merminod, V., 2014. A knowledge sharing framework for black, grey and white box supplier configurations in new product development. Technovation 34 (11), 688-701.   \nMarkham, S.K, Lee, H., 2013. Product development and management association's 2012 comparative performance assessment study. J. Product. Inov. Manag. 30 (3), 408-429.   \nMcKoneeet, K, Lee, YT., 2009.Develpent and analysis of a supply chain stray taxonomy. J. Supply Chain Manag. 45 (3), 3-24.   \nNadkarni, S., Narayanan, V.K., 2007. Srategic schemas, strategic flexibility, and fm performance: the moderating role of industry lockspeed Strateg Manag J. 28 243-270.   \nNarasimhan, R., Swink, M, Kim, S.W, 2006. Disentangling leanness and agility: an empirical investigation. J. Oper. Manag. 24 (5), 440.   \nNovak, S., Eppinger, S.D., 2001. Sourcing by design: product complexity and the supply chain, Manag. Sci. 47 (1).   \nO'Leary-Kelly, S.W, Flores, B.E., 2002. The integration of manufacturing and marketing/ sales decisions: impact on organizational performance. J. Oper. Manag. 20 (3), 221-240.   \nOlhager, J., 2003. Strategic positioning of the order penetration point. Int. J. Prod Econ. 85 (3),319-329 (Structuring and Planning Operations).   \nPashaei, S., Olhager, J., 2015. Product architecture and supply chain design: a systematic review and research agenda. Supply Chain Manag.: Int. J. 20 (1), 98-112.   \nPe development: coordinating product, proces and supply chain design. J. Oper. Manag. 23 (3), 371-388.   \nPisano, G., 1996. The Development Factory. Harvard Business School Press, Boston, MA.   \nRogers, D.S., Lambert, D.M., Knemeyer, A.M, 2004. The product development and commercialization process. Int. J. Logist. Manag. 15 (1), 43-56.   \nRungtusanatham, M., Salvador, F., Forza, C., Choi, T.Y, 2003. Supply-chain linkages and operational performance: a resource-based-view perspective. Int. J. Oper. Prod. Manag. 23 (9).   \nSchiele, H., 2010. Early suplier integration: the dual role of purchasing in new produt development. RD Manag. 40 (2), 138-153.   \nSchroeder, R.G., Goldstein, Sm, Rungtusanatham, MJ., 2011. Operations management: Contemporary concepts and cases, 5th ed. MeGraw-Hill, NY.   \nSimchi LeviD,Kaminsk,P., Simchi-evi, , 2esiging and manaing t sul chain. McGraw-Hill, NY.   \nSimon, HA., 1984. On the behavioral and rational foundations of economic dynamics. I: Day, R., Eliasson, G. (Eds.), The Dynamics of Market Economics. North-Holland, Amsterdam.   \nSosa, Me, le M 4mist pt h and organizational structure complex product development. Manag. Sci. 50 (12).   \nSrivastava, R.K., Shervani T.A., Fahey, L. 1999. Marketing, business processes, and ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "shareholder value: an organizationally embedded view of marketing activities and the discipline of marketing. J. Mark. 63 (Special 1999), 168-179. Stock, G.N., Tatikonda, M.V., 2004. External technology integration in product and process development. Int. J. Oper. Prod. Manag. 24 (7), 642-665. Tan, C.L., Tracey, M., 2007. Collaborative new product development environments: implications for supply chain management. J. Supply Chain Manag. 43 (3), 2-15. Tatikonda, M.V., Stock, G.N., 2003. Product technology transfer in the upstream supply chain. J. Product. Innov. Manag. 20. Thaler, K., 2003. Supply chain management: prozessoptimierungen in der logistischen kette. Fortis im Bildungsverlag EINS, Troisdorf. Thomke, S., Von Hippel, E., 2002. Customers as innovators. Harv. Bus. Rev. 2002. Tsinopoulos, C., Mena, C., 2015. Supply chain integration configurations: process ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "structure and product newness. Int. J. Oper. Prod. Manag. 35 (10), 1437-1459.   \nUlki, S., Schmidt, G.M., 2011. Matching product architecture and supply chain configuration. Prod. Oper. Manag. 20 (1), 16-31.   \nUlrich, K., Eppinger, S.D., 2011. Product design and development. McGraw-Hill.   \nWang, Z., Chen, L., Zhao, X., Zhou, W., 2014. Modularity in building mass customization capability: the mediating effects of customization knowledge utilization and business process improvement. Technovation 34 (11), 678-687.   \nWheelwright, S.C., Clark, K.B., 1992. Revolutionizing product development. The free press, New York, NY.   \nZacharia, Z.G., Mentzer, J.T., 2007. The role of logistics in new product development. J. Bus. Logist. 28 (1). ",
+        "page_idx": 14
+    }
+]
