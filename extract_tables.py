@@ -1,10 +1,12 @@
 import json
 import os
 import re
-from collections import Counter
 
 import fitz
 import pandas as pd
+
+
+# from collections import Counter
 
 
 def find_image_path(d):
@@ -22,7 +24,6 @@ def get_tables_loc(layout_json: dict) -> list[tuple[str, int, tuple]]:
     for page in layout.keys():
         for table in layout[page]:
             table_body = [block for block in table['blocks'] if block['type'] == 'table_body']
-            # 从table_body中搜索key为image_path的值，可能嵌套在多层字典中
             image_path = find_image_path(table_body) if table_body else ""
             if not image_path:
                 break
@@ -45,7 +46,7 @@ def merge_text_blocks(words):
                     abs(block1[0][3] - block2[0][3]) <= 5)
 
         # Check horizontal distance
-        valid_distance = horizontal_distance(block1[0], block2[0]) < 6
+        valid_distance = horizontal_distance(block1[0], block2[0]) < 4
         return same_row and valid_distance
 
     def merge_blocks(block1, block2):
@@ -125,13 +126,12 @@ def determine_rows_and_columns(words_cleaned):
         row_coords.append(y_min)
     row_coords = sorted(row_coords)
 
-    # 众数 根据每行的文本块数量分列
+    # 目前根据每行的文本块数量最大值进行分列 也可考虑众数
     row_counts = [len(row) for row in rows]
-    row_counts_dict = Counter(row_counts)
+    # row_counts_dict = Counter(row_counts)
     # mode_count = row_counts_dict.most_common(1)[0][0] if row_counts_dict else 0
     max_count = max(row_counts) if row_counts else 0
     data_blocks = [cell for row in rows if len(row) == max_count for cell in row].copy()
-    # Identify data rows (excluding header)
 
     # Use data rows to determine initial column structure
     cols = []
@@ -226,11 +226,58 @@ def create_table_from_text_blocks(words_cleaned):
     return df_table
 
 
+def extract_and_adjust_words(doc, page, rect=None):
+    """
+    提取指定页面中的文本块，并根据页面方向调整坐标。
+
+    参数:
+        doc
+        page_num (int): 要处理的页面编号（从 0 开始）。
+        rect (fitz.Rect): 可选的裁剪区域。
+
+    返回:
+        list: 调整后的文本块列表，每个文本块包含调整后的坐标和文本内容。
+    """
+    # 打开 PDF 文件
+    doc_page = doc[page]
+
+    # 获取页面尺寸和旋转角度
+    width, height = doc_page.rect.width, doc_page.rect.height
+    rotation = doc_page.rotation
+
+    # 提取文本块
+    words = doc_page.get_text("words", clip=rect)
+
+    # 定义坐标调整函数
+    def adjust_coords(word, rotation, width, height):
+        x0, y0, x1, y1, text, block_no, line_no, word_no = word
+        if rotation == 90:
+            # 顺时针旋转 90 度
+            x0, y0 = height - y0, x0
+            x1, y1 = height - y1, x1
+        elif rotation == 180:
+            # 旋转 180 度
+            x0, y0 = width - x0, height - y0
+            x1, y1 = width - x1, height - y1
+        elif rotation == 270:
+            # 逆时针旋转 90 度
+            x0, y0 = y0, width - x0
+            x1, y1 = y1, width - x1
+        return (x0, y0, x1, y1, text, block_no, line_no, word_no)
+
+    # 根据旋转角度调整每个文本块的坐标
+    adjusted_words = [adjust_coords(word, rotation, width, height) for word in words]
+
+    return adjusted_words
+
+
 def extract_tables_from_pdf(path_paper):
     paper_title = os.path.basename(path_paper)
     path_layout = os.path.join(path_paper, "layout.json")
     path_origin = os.path.join(path_paper, "origin.pdf")
     path_content_list = os.path.join(path_paper, "content_list.json")
+
+    os.makedirs(os.path.join(path_paper, "images"), exist_ok=True)
 
     with open(path_layout, "r", encoding="utf-8") as f:
         layout_json = json.load(f)
@@ -254,16 +301,22 @@ def extract_tables_from_pdf(path_paper):
             type_sig = 1
             type_sig_line = "\n".join(matches)
 
-    for image_path, page, table_loc in tables_loc:
-        # image_path, page, table_loc = tables_loc[4]
+    for image_filename, page, table_loc in tables_loc:
+        # image_filename, page, table_loc = tables_loc[1]
         rect = fitz.Rect(*table_loc)
 
         try:
             content_footnote = [content for content in content_list if content['type'] == "table" and
-                                content['img_path'] == "images/" + image_path][0]
+                                content['img_path'] == "images/" + image_filename][0]
             content_footnote = content_footnote['table_footnote'][0]
         except:
             content_footnote = ""
+        table_markdown = ""
+        table_html = ""
+
+        image = doc[page].get_pixmap(matrix=fitz.Matrix(3, 3), dpi=300, clip=rect)
+        image_path = os.path.join(path_paper, "images", image_filename)
+        image.save(image_path)
 
         table_finder = doc[page].find_tables(clip=rect)
         if table_finder.tables:
@@ -271,20 +324,23 @@ def extract_tables_from_pdf(path_paper):
         else:
             try:
                 # 提取文本块
-                words = doc[page].get_text("words", clip=rect)
+                words = extract_and_adjust_words(doc, page, rect=rect)
 
-                # 如果当前页面横向
-                if doc[page].rect[2] > doc[page].rect[3]:
-                    words = [(word[1], word[0], word[3], word[2], word[4]) for word in words]
                 # 合并文本块
                 words_cleaned = merge_text_blocks(words)
                 # 生成表格
                 df_table = create_table_from_text_blocks(words_cleaned)
-                # 如果某一列中80%的值都是空字符串，则删除该列
-                threshold = 0.8
-                null_ratios = (df_table == '').mean()
-                cols_to_drop = null_ratios[null_ratios >= threshold].index
-                df_table = df_table.drop(columns=cols_to_drop)
+                df_table.columns = df_table.iloc[0].values.tolist()
+                # 删除第一行
+                df_table = df_table.drop(index=0).reset_index(drop=True)
+                table_markdown = df_table.to_markdown(index=False)
+                table_html = df_table.to_html(index=False)
+                #
+                # # 如果某一列中80%的值都是空字符串，则删除该列
+                # threshold = 0.8
+                # null_ratios = (df_table == '').mean()
+                # cols_to_drop = null_ratios[null_ratios >= threshold].index
+                # df_table = df_table.drop(columns=cols_to_drop)
             except:
                 df_table = None
         if df_table is not None and df_table.shape[0] > 1 and df_table.shape[1] > 1:
@@ -294,7 +350,10 @@ def extract_tables_from_pdf(path_paper):
                 "table": df_table,
                 "type_sig": type_sig,
                 "type_sig_line": type_sig_line,
-                "content_footnote": content_footnote
+                "content_footnote": content_footnote,
+                "image_path": image_path,
+                "table_markdown": table_markdown,
+                "table_html": table_html
             })
 
     return tables_list
@@ -316,7 +375,7 @@ def extract_tables():
             error_list.append(path_paper)
             print(e)
 
-    with open('data/tempdata/tables.pkl', 'wb') as f:
+    with open('tables.pkl', 'wb') as f:
         pickle.dump(tables, f)
     print("All tables extracted.")
 
@@ -353,7 +412,7 @@ def extract_tables_mp():
     # Flatten results list
     tables = [table for result in results for table in result]
 
-    with open('data/tempdata/tables3.pkl', 'wb') as f:
+    with open('tables.pkl', 'wb') as f:
         pickle.dump(tables, f)
     print("All tables extracted.")
     print(len(tables))
@@ -361,35 +420,59 @@ def extract_tables_mp():
 
 if __name__ == '__main__':
     # extract_tables()
-    # extract_tables_mp()
+    extract_tables_mp()
 
-    # test
-    from glob import glob
-
-    test_pdfs = glob(r"tmp_files/*")
-
-    error_dict = {
-        "fix_extract": [6, 7],
-        "fix_layout": [],
-        "error": [],
-        "no_stat": [0]
-    }
-
-    path_paper = test_pdfs[6]
-    path_paper_pdf = os.path.join(path_paper, "origin.pdf")
-
-    path_layout = os.path.join(path_paper, "layout.json")
-    path_origin = os.path.join(path_paper, "origin.pdf")
-    path_content_list = os.path.join(path_paper, "content_list.json")
-
-    with open(path_layout, "r", encoding="utf-8") as f:
-        layout_json = json.load(f)
-    with open(path_content_list, "r", encoding="utf-8") as f:
-        content_list = json.load(f)
-
-    tables_loc = get_tables_loc(layout_json)
-    # 在系统中打开PDF文件
-    os.startfile(path_paper_pdf)
-
-    tables = extract_tables_from_pdf(path_paper)
-    tables = [table['table'] for table in tables if table['table'].shape[0] > 1 and table['table'].shape[1] > 1]
+    # ########
+    # # test #
+    # ########
+    # from glob import glob
+    #
+    # test_pdfs = glob(r"tmp_files/*")
+    #
+    # error_dict = {
+    #     "fix_extract": [
+    #         6,
+    #         9,
+    #         11,  # 纵向页面中横向表格Page 7+1 横向表格 page 8+1
+    #     ],
+    #     "fix_layout": [],
+    #     "error": [],
+    #     "no_stat": [0]
+    # }
+    #
+    # path_paper = test_pdfs[16]
+    # path_paper_pdf = os.path.join(path_paper, "origin.pdf")
+    #
+    # path_layout = os.path.join(path_paper, "layout.json")
+    # path_origin = os.path.join(path_paper, "origin.pdf")
+    # path_content_list = os.path.join(path_paper, "content_list.json")
+    #
+    # with open(path_layout, "r", encoding="utf-8") as f:
+    #     layout_json = json.load(f)
+    # with open(path_content_list, "r", encoding="utf-8") as f:
+    #     content_list = json.load(f)
+    #
+    # tables_loc = get_tables_loc(layout_json)
+    # # 在系统中打开PDF文件
+    # os.startfile(path_paper_pdf)
+    #
+    # tables = extract_tables_from_pdf(path_paper)
+    # tables = [table['table'] for table in tables if table['table'].shape[0] > 1 and table['table'].shape[1] > 1]
+    #
+    # i = 2
+    # # 将第一行作为列名
+    # tables[i].columns = tables[i].iloc[0].values.tolist()
+    # # 删除第一行
+    # tables[i] = tables[i].drop(index=0).reset_index(drop=True)
+    # table_markdown = tables[i].to_markdown(index=False)
+    # image_loc = tables_loc[i]
+    # page = image_loc[1]
+    # doc = fitz.open(path_origin)
+    # rect = fitz.Rect(*image_loc[2])
+    #
+    # # 截图 dpi=300
+    # image = doc[page].get_pixmap(matrix=fitz.Matrix(3, 3), dpi=300, clip=rect)
+    # # 保存图像
+    # image.save("table_image.png")
+    #
+    # print(table_markdown)
